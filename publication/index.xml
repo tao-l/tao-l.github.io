@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2020 23:22:36 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 12:37:04 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
+      <link>/publication/fpa-sample/</link>
+      <pubDate>Thu, 16 Jul 2020 12:37:04 +0800</pubDate>
+      <guid>/publication/fpa-sample/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
