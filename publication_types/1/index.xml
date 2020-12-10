@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2020 23:22:36 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 22:52:32 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
+      <link>/publication/erm/</link>
+      <pubDate>Thu, 10 Dec 2020 22:52:32 +0800</pubDate>
+      <guid>/publication/erm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
+      <link>/publication/fpa-sample/</link>
+      <pubDate>Thu, 16 Jul 2020 12:37:04 +0800</pubDate>
+      <guid>/publication/fpa-sample/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>

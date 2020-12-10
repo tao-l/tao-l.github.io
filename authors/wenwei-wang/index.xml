@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaotie Deng | Tao Lin</title>
-    <link>/authors/xiaotie-deng/</link>
-      <atom:link href="/authors/xiaotie-deng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiaotie Deng</description>
+    <title>Wenwei Wang | Tao Lin</title>
+    <link>/authors/wenwei-wang/</link>
+      <atom:link href="/authors/wenwei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenwei Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 22:52:32 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Xiaotie Deng</title>
-      <link>/authors/xiaotie-deng/</link>
+      <title>Wenwei Wang</title>
+      <link>/authors/wenwei-wang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/erm/</link>
       <pubDate>Thu, 10 Dec 2020 22:52:32 +0800</pubDate>
       <guid>/publication/erm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>/publication/pdm/</link>
-      <pubDate>Sat, 28 Mar 2020 23:22:36 +0800</pubDate>
-      <guid>/publication/pdm/</guid>
       <description></description>
     </item>
     
