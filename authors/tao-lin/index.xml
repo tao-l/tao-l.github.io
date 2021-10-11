@@ -5,7 +5,7 @@
     <link>/authors/tao-lin/</link>
       <atom:link href="/authors/tao-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 19:10:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:17:36 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tao Lin</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>/publication/fpa-convergence/</link>
+      <pubDate>Fri, 08 Oct 2021 00:17:36 -0400</pubDate>
+      <guid>/publication/fpa-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
       <link>/publication/contest_competition/</link>
       <pubDate>Sat, 11 Sep 2021 19:10:50 -0400</pubDate>
       <guid>/publication/contest_competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Optimal Size of an Epistemic Congress</title>
+      <link>/publication/congress/</link>
+      <pubDate>Fri, 02 Jul 2021 00:17:19 -0400</pubDate>
+      <guid>/publication/congress/</guid>
       <description></description>
     </item>
     
@@ -41,6 +57,14 @@
       <link>/publication/pdm/</link>
       <pubDate>Sat, 28 Mar 2020 23:22:36 +0800</pubDate>
       <guid>/publication/pdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
+      <link>/publication/market-clearing-price/</link>
+      <pubDate>Mon, 02 Dec 2019 00:41:34 -0400</pubDate>
+      <guid>/publication/market-clearing-price/</guid>
       <description></description>
     </item>
     
