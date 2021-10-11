@@ -38,12 +38,22 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/tao-lin/</loc>
     <lastmod>2021-09-11T19:10:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/working/</loc>
     <lastmod>2021-09-11T19:10:50-04:00</lastmod>
   </url>
   
@@ -58,12 +68,27 @@
   </url>
   
   <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/erm-itcs/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-12-10T22:52:32+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/erm/</loc>
+    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/published/</loc>
     <lastmod>2020-12-10T22:52:32+08:00</lastmod>
   </url>
   
@@ -112,14 +137,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

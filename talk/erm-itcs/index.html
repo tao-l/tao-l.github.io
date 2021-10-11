@@ -28,10 +28,14 @@
   
     
   
-  <meta name="description" content="In non-truthful auctions, agents&#39; utility for a strategy depends on the strategies of the opponents and also the prior distribution over their private types; the set of Bayes Nash equilibria generally has an intricate dependence on the prior. Using the First Price Auction as our main demonstrating example, we show that Õ (n/ϵ^2) samples from the prior with n agents suffice for an algorithm to learn the interim utilities for all monotone bidding strategies. As a consequence, this number of samples suffice for learning all approximate equilibria. We give almost matching (up to polylog factors) lower bound on the sample complexity for learning utilities. We also consider a setting where agents must pay a search cost to discover their own types. Drawing on a connection between this setting and the first price auction, discovered recently by Kleinberg et al. (2016), we show that Õ (n/ϵ^2) samples suffice for utilities and equilibria to be estimated in a near welfare-optimal descending auction in this setting. En route, we improve the sample complexity bound, recently obtained by Guo et al. (2020), for the Pandora&#39;s Box problem, which is a classical model for sequential consumer search.">
+  <meta name="description" content=" Empirical Revenue Maximization (ERM) is an important price learning algorithm in data-driven auction design. It learns, from samples of bidders&#39; value distribution, an approximately revenue optimal reservation price in both repeated auctions and uniform-price auctions.
+
+However, in these scenarios the bidders who provide samples to ERM have incentives to manipulate the samples in order to lower the output price.  We show that ERM is robust against such manipulation, as long as the number of manipulated samples is small.  Specifically, we generalize a measure called “incentive-awareness measure” proposed by Lavi et al (2019) to quantify the reduction of ERM’s output due to a change of 1 ≤ m≤ o(N^0.5) out of N input samples, and provide specific convergence rates of this measure to zero as N goes to infinity.  By adopting this measure, we use ERM to construct an efficient, approximately incentive-compatible, and revenue-optimal learning algorithm in repeated auctions against non-myopic bidders, and show approximate group-IC in uniform-price auctions.
+
+This is joint work with Xiaotie Deng, Ron Lavi, Qi Qi, Wenwei Wang, Xiang Yan, accepted by NeurIPS’20 (see https://arxiv.org/abs/2010.05519 ) ">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/fpa-sample/">
+  <link rel="alternate" hreflang="en-us" href="/talk/erm-itcs/">
 
   
 
@@ -213,7 +217,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/fpa-sample/">
+  <link rel="canonical" href="/talk/erm-itcs/">
 
   
   
@@ -227,26 +231,27 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Tao Lin">
-  <meta property="og:url" content="/publication/fpa-sample/">
-  <meta property="og:title" content="Learning Utilities and Equilibria in Non-Truthful Auctions | Tao Lin">
-  <meta property="og:description" content="In non-truthful auctions, agents&#39; utility for a strategy depends on the strategies of the opponents and also the prior distribution over their private types; the set of Bayes Nash equilibria generally has an intricate dependence on the prior. Using the First Price Auction as our main demonstrating example, we show that Õ (n/ϵ^2) samples from the prior with n agents suffice for an algorithm to learn the interim utilities for all monotone bidding strategies. As a consequence, this number of samples suffice for learning all approximate equilibria. We give almost matching (up to polylog factors) lower bound on the sample complexity for learning utilities. We also consider a setting where agents must pay a search cost to discover their own types. Drawing on a connection between this setting and the first price auction, discovered recently by Kleinberg et al. (2016), we show that Õ (n/ϵ^2) samples suffice for utilities and equilibria to be estimated in a near welfare-optimal descending auction in this setting. En route, we improve the sample complexity bound, recently obtained by Guo et al. (2020), for the Pandora&#39;s Box problem, which is a classical model for sequential consumer search."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:url" content="/talk/erm-itcs/">
+  <meta property="og:title" content="Robustness of Empirical Revenue Maximization in Auction Learning | Tao Lin">
+  <meta property="og:description" content=" Empirical Revenue Maximization (ERM) is an important price learning algorithm in data-driven auction design. It learns, from samples of bidders&#39; value distribution, an approximately revenue optimal reservation price in both repeated auctions and uniform-price auctions.
+
+However, in these scenarios the bidders who provide samples to ERM have incentives to manipulate the samples in order to lower the output price.  We show that ERM is robust against such manipulation, as long as the number of manipulated samples is small.  Specifically, we generalize a measure called “incentive-awareness measure” proposed by Lavi et al (2019) to quantify the reduction of ERM’s output due to a change of 1 ≤ m≤ o(N^0.5) out of N input samples, and provide specific convergence rates of this measure to zero as N goes to infinity.  By adopting this measure, we use ERM to construct an efficient, approximately incentive-compatible, and revenue-optimal learning algorithm in repeated auctions against non-myopic bidders, and show approximate group-IC in uniform-price auctions.
+
+This is joint work with Xiaotie Deng, Ron Lavi, Qi Qi, Wenwei Wang, Xiang Yan, accepted by NeurIPS’20 (see https://arxiv.org/abs/2010.05519 ) "><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-07-16T12:37:04&#43;08:00">
+      <meta property="article:published_time" content="2021-10-10T20:16:02-04:00">
     
-    <meta property="article:modified_time" content="2020-07-16T12:37:04&#43;08:00">
+    <meta property="article:modified_time" content="2020-12-23T00:00:00&#43;00:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
 
 
 
@@ -254,37 +259,42 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/fpa-sample/"
+    "@id": "/talk/erm-itcs/"
   },
-  "headline": "Learning Utilities and Equilibria in Non-Truthful Auctions",
+  "name": "Robustness of Empirical Revenue Maximization in Auction Learning",
   
-  "datePublished": "2020-07-16T12:37:04+08:00",
-  "dateModified": "2020-07-16T12:37:04+08:00",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Hu Fu"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Tao Lin",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+  "location": {
+    "@type": "Place",
+    "name": "Institute for Theoretical Computer Science (ITCS), SUFE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "Shanghai",
+      "postalCode": "",
+      "addressRegion": "China",
+      "addressCountry": ""
     }
+    
   },
-  "description": "In non-truthful auctions, agents' utility for a strategy depends on the strategies of the opponents and also the prior distribution over their private types; the set of Bayes Nash equilibria generally has an intricate dependence on the prior. Using the First Price Auction as our main demonstrating example, we show that Õ (n/ϵ^2) samples from the prior with n agents suffice for an algorithm to learn the interim utilities for all monotone bidding strategies. As a consequence, this number of samples suffice for learning all approximate equilibria. We give almost matching (up to polylog factors) lower bound on the sample complexity for learning utilities. We also consider a setting where agents must pay a search cost to discover their own types. Drawing on a connection between this setting and the first price auction, discovered recently by Kleinberg et al. (2016), we show that Õ (n/ϵ^2) samples suffice for utilities and equilibria to be estimated in a near welfare-optimal descending auction in this setting. En route, we improve the sample complexity bound, recently obtained by Guo et al. (2020), for the Pandora's Box problem, which is a classical model for sequential consumer search."
+  
+  
+  "startDate": "2020-12-23T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Tao Lin"
+  },
+  
+  "description": " Empirical Revenue Maximization (ERM) is an important price learning algorithm in data-driven auction design. It learns, from samples of bidders' value distribution, an approximately revenue optimal reservation price in both repeated auctions and uniform-price auctions.\n\nHowever, in these scenarios the bidders who provide samples to ERM have incentives to manipulate the samples in order to lower the output price.  We show that ERM is robust against such manipulation, as long as the number of manipulated samples is small.  Specifically, we generalize a measure called “incentive-awareness measure” proposed by Lavi et al (2019) to quantify the reduction of ERM’s output due to a change of 1 ≤ m≤ o(N^0.5) out of N input samples, and provide specific convergence rates of this measure to zero as N goes to infinity.  By adopting this measure, we use ERM to construct an efficient, approximately incentive-compatible, and revenue-optimal learning algorithm in repeated auctions against non-myopic bidders, and show approximate group-IC in uniform-price auctions.\n\nThis is joint work with Xiaotie Deng, Ron Lavi, Qi Qi, Wenwei Wang, Xiang Yan, accepted by NeurIPS’20 (see https://arxiv.org/abs/2010.05519 ) "
 }
 </script>
 
   
 
-  
-
 
   
 
@@ -295,7 +305,7 @@
 
 
 
-  <title>Learning Utilities and Equilibria in Non-Truthful Auctions | Tao Lin</title>
+  <title>Robustness of Empirical Revenue Maximization in Auction Learning | Tao Lin</title>
 
 </head>
 
@@ -564,7 +574,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Learning Utilities and Equilibria in Non-Truthful Auctions</h1>
+  <h1>Robustness of Empirical Revenue Maximization in Auction Learning</h1>
 
   
 
@@ -576,28 +586,7 @@
 
   
   
-  
-  
-  <div>
-    
 
-
-
-  
-  <span><a href="/authors/hu-fu/">Hu Fu</a></span>, <span><a href="/authors/tao-lin/">Tao Lin</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    2020
-  </span>
   
 
   
@@ -621,8 +610,6 @@
 
 
 
-
-  
 
 
 
@@ -644,56 +631,28 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/fpa-sample/fpa-sample.pdf" target="_blank" rel="noopener">
-  PDF
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/slides/ERM-ITCS.pdf" target="_blank" rel="noopener">
+  Slides
 </a>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2007.01722" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://proceedings.neurips.cc/paper/2020/hash/a3c788c57e423fa9c177544a4d5d1239-Abstract.html" target="_blank" rel="noopener">
-    
-    publisher site
-  </a>
 
 
 </div>
@@ -707,23 +666,37 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">In non-truthful auctions, agents&rsquo; utility for a strategy depends on the strategies of the opponents and also the prior distribution over their private types; the set of Bayes Nash equilibria generally has an intricate dependence on the prior. Using the First Price Auction as our main demonstrating example, we show that Õ (n/ϵ^2) samples from the prior with n agents suffice for an algorithm to learn the interim utilities for all monotone bidding strategies. As a consequence, this number of samples suffice for learning all approximate equilibria. We give almost matching (up to polylog factors) lower bound on the sample complexity for learning utilities. We also consider a setting where agents must pay a search cost to discover their own types. Drawing on a connection between this setting and the first price auction, discovered recently by Kleinberg et al. (2016), we show that Õ (n/ϵ^2) samples suffice for utilities and equilibria to be estimated in a near welfare-optimal descending auction in this setting. En route, we improve the sample complexity bound, recently obtained by Guo et al. (2020), for the Pandora&rsquo;s Box problem, which is a classical model for sequential consumer search.</p>
+      <h3>Abstract</h3>
+      <p class="pub-abstract"><p>Empirical Revenue Maximization (ERM) is an important price learning algorithm in data-driven auction design. It learns, from samples of bidders&rsquo; value distribution, an approximately revenue optimal reservation price in both repeated auctions and uniform-price auctions.</p>
+<p>However, in these scenarios the bidders who provide samples to ERM have incentives to manipulate the samples in order to lower the output price.  We show that ERM is robust against such manipulation, as long as the number of manipulated samples is small.  Specifically, we generalize a measure called “incentive-awareness measure” proposed by Lavi et al (2019) to quantify the reduction of ERM’s output due to a change of 1 ≤ m≤ o(N^0.5) out of N input samples, and provide specific convergence rates of this measure to zero as N goes to infinity.  By adopting this measure, we use ERM to construct an efficient, approximately incentive-compatible, and revenue-optimal learning algorithm in repeated auctions against non-myopic bidders, and show approximate group-IC in uniform-price auctions.</p>
+<p>This is joint work with Xiaotie Deng, Ron Lavi, Qi Qi, Wenwei Wang, Xiang Yan, accepted by NeurIPS’20 (see <a href="https://arxiv.org/abs/2010.05519">https://arxiv.org/abs/2010.05519</a> )</p>
+</p>
     
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Dec 23, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
 
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            
-            
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/slides/ERM-ITCS.pdf" target="_blank" rel="noopener">
+            Slides
             </a>
-            
           </div>
         </div>
       </div>
@@ -733,22 +706,34 @@
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Institute for Theoretical Computer Science (ITCS), SUFE</div>
+          
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-9">Shanghai, China </div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      
+    </div>
 
     
 
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/published/">published</a>
-  
-</div>
 
 
 
@@ -763,7 +748,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/fpa-sample/&amp;text=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/talk/erm-itcs/&amp;text=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -776,7 +761,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/fpa-sample/&amp;t=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/talk/erm-itcs/&amp;t=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -789,7 +774,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions&amp;body=/publication/fpa-sample/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning&amp;body=/talk/erm-itcs/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -802,7 +787,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/fpa-sample/&amp;title=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/talk/erm-itcs/&amp;title=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -815,7 +800,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions%20/publication/fpa-sample/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning%20/talk/erm-itcs/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -828,7 +813,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/fpa-sample/&amp;title=Learning%20Utilities%20and%20Equilibria%20in%20Non-Truthful%20Auctions" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/talk/erm-itcs/&amp;title=Robustness%20of%20Empirical%20Revenue%20Maximization%20in%20Auction%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -848,29 +833,60 @@
 
 
   
+
+
+
+
+
+
+  
+  
   
     
-  
-  
-
-
-
-
-
-
-  
-  
   
   
   
   <div class="media author-card content-widget-hr">
     
+      
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hud2397322be35dab119fdd66c28643433_695283_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
+    
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/hu-fu/"></a></h5>
-      
-      
+      <h5 class="card-title"><a href="/">Tao Lin</a></h5>
+      <h6 class="card-subtitle">PhD student in Computer Science</h6>
+      <p class="card-text">My research interests include algorithmic game theory, mechanism design, and machine learning.</p>
       <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tlin@g.harvard.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=6uJ5qh4AAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
   
 </ul>
 
@@ -886,15 +902,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/pdm/">Private Data Manipulation in Optimal Sponsored Search Auction</a></li>
-      
-    </ul>
-  </div>
   
 
 
