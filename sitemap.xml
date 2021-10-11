@@ -4,11 +4,81 @@
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/auction/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/fpa-convergence/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/online-learning/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tao-lin/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/weiqiang-zheng/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/working/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaotie-deng/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xinyan-hu/</loc>
+    <lastmod>2021-10-08T00:17:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/contest-theory/</loc>
     <lastmod>2021-09-11T19:10:50-04:00</lastmod>
   </url>
   
@@ -23,48 +93,33 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/ron-lavi/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tao-lin/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/working/</loc>
-    <lastmod>2021-09-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaotie-deng/</loc>
     <lastmod>2021-09-11T19:10:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/yotam-gafni/</loc>
     <lastmod>2021-09-11T19:10:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-halpern/</loc>
+    <lastmod>2021-07-02T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manon-revel/</loc>
+    <lastmod>2021-07-02T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-choice/</loc>
+    <lastmod>2021-07-02T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/congress/</loc>
+    <lastmod>2021-07-02T00:17:19-04:00</lastmod>
   </url>
   
   <url>
@@ -88,7 +143,12 @@
   </url>
   
   <url>
-    <loc>/tags/published/</loc>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/published/</loc>
     <lastmod>2020-12-10T22:52:32+08:00</lastmod>
   </url>
   
@@ -128,11 +188,27 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/tags/matching-market/</loc>
+    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories/notes/</loc>
+    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/market-clearing-price/</loc>
+    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaoming-li/</loc>
+    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
