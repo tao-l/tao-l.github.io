@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:17:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:17:36 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
       <link>/publication/fpa-convergence/</link>
-      <pubDate>Fri, 08 Oct 2021 00:17:36 -0400</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:17:36 -0400</pubDate>
       <guid>/publication/fpa-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Many Representatives Do We Need? The Optimal Size of an Epistemic Congress</title>
+      <link>/publication/congress/</link>
+      <pubDate>Tue, 01 Feb 2022 00:17:19 -0400</pubDate>
+      <guid>/publication/congress/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>/publication/contest_competition/</link>
       <pubDate>Sat, 11 Sep 2021 19:10:50 -0400</pubDate>
       <guid>/publication/contest_competition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Optimal Size of an Epistemic Congress</title>
-      <link>/publication/congress/</link>
-      <pubDate>Fri, 02 Jul 2021 00:17:19 -0400</pubDate>
-      <guid>/publication/congress/</guid>
       <description></description>
     </item>
     

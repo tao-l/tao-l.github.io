@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:17:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:17:36 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tao Lin</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
       <link>/publication/fpa-convergence/</link>
-      <pubDate>Fri, 08 Oct 2021 00:17:36 -0400</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:17:36 -0400</pubDate>
       <guid>/publication/fpa-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Many Representatives Do We Need? The Optimal Size of an Epistemic Congress</title>
+      <link>/publication/congress/</link>
+      <pubDate>Tue, 01 Feb 2022 00:17:19 -0400</pubDate>
+      <guid>/publication/congress/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>/publication/contest_competition/</link>
       <pubDate>Sat, 11 Sep 2021 19:10:50 -0400</pubDate>
       <guid>/publication/contest_competition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Optimal Size of an Epistemic Congress</title>
-      <link>/publication/congress/</link>
-      <pubDate>Fri, 02 Jul 2021 00:17:19 -0400</pubDate>
-      <guid>/publication/congress/</guid>
       <description></description>
     </item>
     
@@ -74,6 +74,16 @@
       <pubDate>Mon, 02 Dec 2019 00:41:34 -0400</pubDate>
       <guid>/publication/market-clearing-price/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
+      <link>/post/market-clearing/</link>
+      <pubDate>Sun, 01 Dec 2019 16:19:55 -0500</pubDate>
+      <guid>/post/market-clearing/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/1912.00786.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This&lt;/a&gt; is a note about market-clearing prices in a matching market, where we prove that: (1) the space of market-clearing prices is convex; (2) the space of market-learning prices is closed under element-wise maximum and minimum operations; (3) any market-clearing prices induce all maximum matchings.  We prove these claims using elementary mathematics, instead of using the classical yet opaque approach that relies on duality of linear programming.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>/tags/social-choice/</link>
       <atom:link href="/tags/social-choice/index.xml" rel="self" type="application/rss+xml" />
     <description>social choice</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jul 2021 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:17:19 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>social choice</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>The Optimal Size of an Epistemic Congress</title>
+      <title>How Many Representatives Do We Need? The Optimal Size of an Epistemic Congress</title>
       <link>/publication/congress/</link>
-      <pubDate>Fri, 02 Jul 2021 00:17:19 -0400</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:17:19 -0400</pubDate>
       <guid>/publication/congress/</guid>
       <description></description>
     </item>

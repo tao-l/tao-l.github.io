@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Tao Lin</title>
+    <title>Blog | Tao Lin</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 16:19:55 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
+      <title>Blog</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
+      <link>/post/market-clearing/</link>
+      <pubDate>Sun, 01 Dec 2019 16:19:55 -0500</pubDate>
+      <guid>/post/market-clearing/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/1912.00786.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This&lt;/a&gt; is a note about market-clearing prices in a matching market, where we prove that: (1) the space of market-clearing prices is convex; (2) the space of market-learning prices is closed under element-wise maximum and minimum operations; (3) any market-clearing prices induce all maximum matchings.  We prove these claims using elementary mathematics, instead of using the classical yet opaque approach that relies on duality of linear programming.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
