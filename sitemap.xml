@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>/publication/aggregation/</loc>
+    <lastmod>2022-08-25T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2022-08-25T00:17:19-04:00</lastmod>
   </url>
@@ -39,11 +44,6 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2022-08-25T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/aggregation/</loc>
     <lastmod>2022-08-25T00:17:19-04:00</lastmod>
   </url>
   
