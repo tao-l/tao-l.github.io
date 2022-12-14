@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>information design | Tao Lin</title>
+    <link>/tags/information-design/</link>
+      <atom:link href="/tags/information-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>information design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:17:19 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>information design</title>
+      <link>/tags/information-design/</link>
+    </image>
+    
+    <item>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>/publication/aggregation/</link>
+      <pubDate>Thu, 25 Aug 2022 00:17:19 -0400</pubDate>
+      <guid>/publication/aggregation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

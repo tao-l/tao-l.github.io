@@ -5,12 +5,20 @@
     <link>/categories/notes/</link>
       <atom:link href="/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <description>notes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 00:41:34 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:41:34 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>notes</title>
       <link>/categories/notes/</link>
     </image>
+    
+    <item>
+      <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
+      <link>/publication/sample-erm-product/</link>
+      <pubDate>Wed, 14 Dec 2022 00:41:34 -0400</pubDate>
+      <guid>/publication/sample-erm-product/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>

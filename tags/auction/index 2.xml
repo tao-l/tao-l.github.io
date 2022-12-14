@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>auction | Tao Lin</title>
+    <link>/tags/auction/</link>
+      <atom:link href="/tags/auction/index.xml" rel="self" type="application/rss+xml" />
+    <description>auction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:17:36 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>auction</title>
+      <link>/tags/auction/</link>
+    </image>
+    
+    <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>/publication/fpa-convergence/</link>
+      <pubDate>Fri, 01 Apr 2022 00:17:36 -0400</pubDate>
+      <guid>/publication/fpa-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
+      <link>/publication/erm/</link>
+      <pubDate>Thu, 10 Dec 2020 22:52:32 +0800</pubDate>
+      <guid>/publication/erm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
+      <link>/publication/fpa-sample/</link>
+      <pubDate>Thu, 16 Jul 2020 12:37:04 +0800</pubDate>
+      <guid>/publication/fpa-sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
+      <link>/publication/pdm/</link>
+      <pubDate>Sat, 28 Mar 2020 23:22:36 +0800</pubDate>
+      <guid>/publication/pdm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

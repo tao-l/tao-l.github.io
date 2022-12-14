@@ -5,12 +5,28 @@
     <link>/authors/tao-lin/</link>
       <atom:link href="/authors/tao-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 19:10:50 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tao Lin</title>
       <link>/authors/tao-lin/</link>
     </image>
+    
+    <item>
+      <title>From Monopoly to Competition: Optimal Contests Prevail</title>
+      <link>/publication/contest_competition/</link>
+      <pubDate>Sat, 11 Feb 2023 19:10:50 -0400</pubDate>
+      <guid>/publication/contest_competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
+      <link>/publication/sample-erm-product/</link>
+      <pubDate>Wed, 14 Dec 2022 00:41:34 -0400</pubDate>
+      <guid>/publication/sample-erm-product/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
@@ -33,14 +49,6 @@
       <link>/publication/congress/</link>
       <pubDate>Tue, 01 Feb 2022 00:17:19 -0400</pubDate>
       <guid>/publication/congress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Monopoly to Competition: Optimal Contests Prevail</title>
-      <link>/publication/contest_competition/</link>
-      <pubDate>Sat, 11 Sep 2021 19:10:50 -0400</pubDate>
-      <guid>/publication/contest_competition/</guid>
       <description></description>
     </item>
     

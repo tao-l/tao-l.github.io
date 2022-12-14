@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiqiang Zheng | Tao Lin</title>
+    <link>/authors/weiqiang-zheng/</link>
+      <atom:link href="/authors/weiqiang-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiqiang Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:17:36 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Weiqiang Zheng</title>
+      <link>/authors/weiqiang-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>/publication/fpa-convergence/</link>
+      <pubDate>Fri, 01 Apr 2022 00:17:36 -0400</pubDate>
+      <guid>/publication/fpa-convergence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
