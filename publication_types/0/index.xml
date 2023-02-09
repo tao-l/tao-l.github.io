@@ -5,12 +5,20 @@
     <link>/publication_types/0/</link>
       <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:41:34 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 10:29:33 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>0</title>
       <link>/publication_types/0/</link>
     </image>
+    
+    <item>
+      <title>Content</title>
+      <link>/content/</link>
+      <pubDate>Thu, 09 Feb 2023 10:29:33 -0500</pubDate>
+      <guid>/content/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
