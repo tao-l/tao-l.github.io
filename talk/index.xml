@@ -5,12 +5,36 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Private Data Manipulation in Sponsored Search Auctions</title>
+      <link>/talk/ccf-ce-2023/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/ccf-ce-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>/talk/pku-cs-peer-talk-2023/</link>
+      <pubDate>Wed, 14 Jun 2023 01:26:03 -0400</pubDate>
+      <guid>/talk/pku-cs-peer-talk-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
+      <link>/talk/harvard-econcs-2023/</link>
+      <pubDate>Fri, 03 Mar 2023 01:32:12 -0400</pubDate>
+      <guid>/talk/harvard-econcs-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>

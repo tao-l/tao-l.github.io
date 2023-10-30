@@ -5,12 +5,20 @@
     <link>/tags/machine-learning/</link>
       <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Feb 2023 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:17:19 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>machine learning</title>
       <link>/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>/publication/aggregation/</link>
+      <pubDate>Fri, 15 Dec 2023 00:17:19 -0400</pubDate>
+      <guid>/publication/aggregation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
@@ -25,14 +33,6 @@
       <link>/publication/sample-erm-product/</link>
       <pubDate>Wed, 14 Dec 2022 00:41:34 -0400</pubDate>
       <guid>/publication/sample-erm-product/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample Complexity of Forecast Aggregation</title>
-      <link>/publication/aggregation/</link>
-      <pubDate>Thu, 25 Aug 2022 00:17:19 -0400</pubDate>
-      <guid>/publication/aggregation/</guid>
       <description></description>
     </item>
     

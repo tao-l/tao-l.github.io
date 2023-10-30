@@ -4,12 +4,72 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/information-design/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aggregation/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tao-lin/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yiling-chen/</loc>
+    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ccf-ce-2023/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/pku-cs-peer-talk-2023/</loc>
+    <lastmod>2023-06-14T01:26:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/harvard-econcs-2023/</loc>
+    <lastmod>2023-03-03T01:32:12-04:00</lastmod>
   </url>
   
   <url>
@@ -33,27 +93,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/ron-lavi/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tao-lin/</loc>
     <lastmod>2023-02-11T19:10:50-04:00</lastmod>
   </url>
   
@@ -88,27 +128,12 @@
   </url>
   
   <url>
-    <loc>/tags/information-design/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/online-learning/</loc>
     <lastmod>2023-02-08T00:17:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/persuasion/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yiling-chen/</loc>
     <lastmod>2023-02-08T00:17:19-04:00</lastmod>
   </url>
   
@@ -128,17 +153,7 @@
   </url>
   
   <url>
-    <loc>/publication/aggregation/</loc>
-    <lastmod>2022-08-25T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/nash-convergence/</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url>
   

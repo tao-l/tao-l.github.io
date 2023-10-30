@@ -5,7 +5,7 @@
     <link>/authors/yiling-chen/</link>
       <atom:link href="/authors/yiling-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiling Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Feb 2023 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:17:19 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yiling Chen</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
-      <link>/publication/persuasion/</link>
-      <pubDate>Wed, 08 Feb 2023 00:17:19 -0400</pubDate>
-      <guid>/publication/persuasion/</guid>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>/publication/aggregation/</link>
+      <pubDate>Fri, 15 Dec 2023 00:17:19 -0400</pubDate>
+      <guid>/publication/aggregation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sample Complexity of Forecast Aggregation</title>
-      <link>/publication/aggregation/</link>
-      <pubDate>Thu, 25 Aug 2022 00:17:19 -0400</pubDate>
-      <guid>/publication/aggregation/</guid>
+      <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
+      <link>/publication/persuasion/</link>
+      <pubDate>Wed, 08 Feb 2023 00:17:19 -0400</pubDate>
+      <guid>/publication/persuasion/</guid>
       <description></description>
     </item>
     
