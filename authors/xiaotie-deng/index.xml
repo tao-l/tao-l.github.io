@@ -5,12 +5,20 @@
     <link>/authors/xiaotie-deng/</link>
       <atom:link href="/authors/xiaotie-deng/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaotie Deng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 19:10:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Dec 2023 20:08:29 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Xiaotie Deng</title>
       <link>/authors/xiaotie-deng/</link>
     </image>
+    
+    <item>
+      <title>Learning Thresholds with Latent Values and Censored Feedback</title>
+      <link>/publication/theshold/</link>
+      <pubDate>Thu, 07 Dec 2023 20:08:29 +0800</pubDate>
+      <guid>/publication/theshold/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
