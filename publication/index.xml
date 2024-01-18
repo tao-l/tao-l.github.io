@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 20:08:29 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Sample Complexity of Forecast Aggregation</title>
-      <link>/publication/aggregation/</link>
-      <pubDate>Fri, 15 Dec 2023 00:17:19 -0400</pubDate>
-      <guid>/publication/aggregation/</guid>
+      <title>Learning Thresholds with Latent Values and Censored Feedback</title>
+      <link>/publication/theshold/</link>
+      <pubDate>Tue, 07 May 2024 20:08:29 +0800</pubDate>
+      <guid>/publication/theshold/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Thresholds with Latent Values and Censored Feedback</title>
-      <link>/publication/theshold/</link>
-      <pubDate>Thu, 07 Dec 2023 20:08:29 +0800</pubDate>
-      <guid>/publication/theshold/</guid>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>/publication/aggregation/</link>
+      <pubDate>Fri, 15 Dec 2023 00:17:19 -0400</pubDate>
+      <guid>/publication/aggregation/</guid>
       <description></description>
     </item>
     
