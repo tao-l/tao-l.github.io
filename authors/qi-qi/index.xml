@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qi Qi | Tao Lin</title>
+    <title>Qi Qi* | Tao Lin</title>
     <link>/authors/qi-qi/</link>
       <atom:link href="/authors/qi-qi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Qi Qi</description>
+    <description>Qi Qi*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 22:52:32 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Qi Qi</title>
+      <title>Qi Qi*</title>
       <link>/authors/qi-qi/</link>
     </image>
     

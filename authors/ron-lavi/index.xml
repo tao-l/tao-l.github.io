@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ron Lavi | Tao Lin</title>
+    <title>Ron Lavi* | Tao Lin</title>
     <link>/authors/ron-lavi/</link>
       <atom:link href="/authors/ron-lavi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ron Lavi</description>
+    <description>Ron Lavi*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 19:10:50 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Ron Lavi</title>
+      <title>Ron Lavi*</title>
       <link>/authors/ron-lavi/</link>
     </image>
     

@@ -5,12 +5,28 @@
     <link>/tags/information-design/</link>
       <atom:link href="/tags/information-design/index.xml" rel="self" type="application/rss+xml" />
     <description>information design</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:17:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 22:03:05 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>information design</title>
       <link>/tags/information-design/</link>
     </image>
+    
+    <item>
+      <title>Persuading a Learning Agent</title>
+      <link>/publication/learning-agent-bp/</link>
+      <pubDate>Thu, 15 Feb 2024 22:03:05 -0500</pubDate>
+      <guid>/publication/learning-agent-bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Sender Persuasion -- A Computational Perspective</title>
+      <link>/publication/multi-sender-bp/</link>
+      <pubDate>Thu, 08 Feb 2024 22:02:47 -0500</pubDate>
+      <guid>/publication/multi-sender-bp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hongyi Ling | Tao Lin</title>
+    <title>Hongyi Ling* | Tao Lin</title>
     <link>/authors/hongyi-ling/</link>
       <atom:link href="/authors/hongyi-ling/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hongyi Ling</description>
+    <description>Hongyi Ling*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 19:10:50 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Hongyi Ling</title>
+      <title>Hongyi Ling*</title>
       <link>/authors/hongyi-ling/</link>
     </image>
     

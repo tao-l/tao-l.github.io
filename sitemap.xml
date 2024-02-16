@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/authors/_tao-lin_/</loc>
+    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/auction-design/</loc>
+    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2024-05-07T20:08:29+08:00</lastmod>
   </url>
@@ -23,6 +33,16 @@
   </url>
   
   <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/online-learning/</loc>
+    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2024-05-07T20:08:29+08:00</lastmod>
   </url>
@@ -33,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/authors/tao-lin/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-05-07T20:08:29+08:00</lastmod>
   </url>
   
@@ -58,27 +78,62 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2024-02-15T22:03:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/information-design/</loc>
-    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+    <lastmod>2024-02-15T22:03:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+    <loc>/tags/mechanism-design/</loc>
+    <lastmod>2024-02-15T22:03:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aggregation/</loc>
-    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
+    <loc>/publication/learning-agent-bp/</loc>
+    <lastmod>2024-02-15T22:03:05-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/yiling-chen/</loc>
+    <lastmod>2024-02-15T22:03:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computational-complexity/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-parkes/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haifeng-xu/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/multi-sender-bp/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/safwan-hossain/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tonghan-wang/</loc>
+    <lastmod>2024-02-08T22:02:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aggregation/</loc>
     <lastmod>2023-12-15T00:17:19-04:00</lastmod>
   </url>
   
@@ -118,11 +173,6 @@
   </url>
   
   <url>
-    <loc>/tags/mechanism-design/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/ron-lavi/</loc>
     <lastmod>2023-02-11T19:10:50-04:00</lastmod>
   </url>
@@ -148,12 +198,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-02-08T00:17:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/online-learning/</loc>
+    <loc>/categories/notes/</loc>
     <lastmod>2023-02-08T00:17:19-04:00</lastmod>
   </url>
   
@@ -163,17 +213,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-12-14T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/sample-erm-product/</loc>
-    <lastmod>2022-12-14T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/notes/</loc>
     <lastmod>2022-12-14T00:41:34-04:00</lastmod>
   </url>
   
