@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Multi-Sender Persuasion: A Computational Perspective</title>
+      <link>/publication/multi-sender-bp/</link>
+      <pubDate>Tue, 23 Jul 2024 22:02:47 -0500</pubDate>
+      <guid>/publication/multi-sender-bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>/publication/learning-agent-bp/</link>
+      <pubDate>Tue, 18 Jun 2024 22:03:05 -0500</pubDate>
+      <guid>/publication/learning-agent-bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias Detection Via Signaling</title>
+      <link>/publication/bias_detection/</link>
+      <pubDate>Mon, 27 May 2024 01:20:19 -0700</pubDate>
+      <guid>/publication/bias_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Thresholds with Latent Values and Censored Feedback</title>
       <link>/publication/theshold/</link>
       <pubDate>Tue, 07 May 2024 20:08:29 +0800</pubDate>
@@ -21,18 +45,18 @@
     </item>
     
     <item>
-      <title>Persuading a Learning Agent</title>
-      <link>/publication/learning-agent-bp/</link>
-      <pubDate>Thu, 15 Feb 2024 22:03:05 -0500</pubDate>
-      <guid>/publication/learning-agent-bp/</guid>
+      <title>Information Deisng without Prior</title>
+      <link>/publication/without_prior/</link>
+      <pubDate>Fri, 19 Apr 2024 01:46:45 -0700</pubDate>
+      <guid>/publication/without_prior/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-Sender Persuasion -- A Computational Perspective</title>
-      <link>/publication/multi-sender-bp/</link>
-      <pubDate>Thu, 08 Feb 2024 22:02:47 -0500</pubDate>
-      <guid>/publication/multi-sender-bp/</guid>
+      <title>User-Creator Feature Dynamics in Recommender Systems with Dual Influence</title>
+      <link>/publication/user-creator/</link>
+      <pubDate>Mon, 19 Feb 2024 01:40:00 -0700</pubDate>
+      <guid>/publication/user-creator/</guid>
       <description></description>
     </item>
     

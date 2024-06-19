@@ -5,7 +5,7 @@
     <link>/authors/yiling-chen/</link>
       <atom:link href="/authors/yiling-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiling Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 22:03:05 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 22:02:47 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yiling Chen</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Persuading a Learning Agent</title>
+      <title>Multi-Sender Persuasion: A Computational Perspective</title>
+      <link>/publication/multi-sender-bp/</link>
+      <pubDate>Tue, 23 Jul 2024 22:02:47 -0500</pubDate>
+      <guid>/publication/multi-sender-bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
       <link>/publication/learning-agent-bp/</link>
-      <pubDate>Thu, 15 Feb 2024 22:03:05 -0500</pubDate>
+      <pubDate>Tue, 18 Jun 2024 22:03:05 -0500</pubDate>
       <guid>/publication/learning-agent-bp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-Sender Persuasion -- A Computational Perspective</title>
-      <link>/publication/multi-sender-bp/</link>
-      <pubDate>Thu, 08 Feb 2024 22:02:47 -0500</pubDate>
-      <guid>/publication/multi-sender-bp/</guid>
+      <title>Bias Detection Via Signaling</title>
+      <link>/publication/bias_detection/</link>
+      <pubDate>Mon, 27 May 2024 01:20:19 -0700</pubDate>
+      <guid>/publication/bias_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-Creator Feature Dynamics in Recommender Systems with Dual Influence</title>
+      <link>/publication/user-creator/</link>
+      <pubDate>Mon, 19 Feb 2024 01:40:00 -0700</pubDate>
+      <guid>/publication/user-creator/</guid>
       <description></description>
     </item>
     
