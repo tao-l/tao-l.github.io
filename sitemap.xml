@@ -4,17 +4,112 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/_tao-lin_/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-estornell/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kun-jin/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/recommender-system/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/user-creator/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaoying-zhang/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yang-liu/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yiling-chen/</loc>
+    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaditya-ramdas/</loc>
+    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ariel-d.-procaccia/</loc>
+    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bias_detection/</loc>
+    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/information-design/</loc>
+    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/itai-shapira/</loc>
+    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/informs-2024/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/esif-2024/</loc>
+    <lastmod>2024-10-10T02:29:37-04:00</lastmod>
   </url>
   
   <url>
@@ -33,27 +128,7 @@
   </url>
   
   <url>
-    <loc>/tags/information-design/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/multi-sender-bp/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2024-07-23T22:02:47-05:00</lastmod>
   </url>
   
@@ -63,17 +138,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/tonghan-wang/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yiling-chen/</loc>
     <lastmod>2024-07-23T22:02:47-05:00</lastmod>
   </url>
   
@@ -95,26 +160,6 @@
   <url>
     <loc>/tags/online-learning/</loc>
     <lastmod>2024-06-18T22:03:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/aaditya-ramdas/</loc>
-    <lastmod>2024-05-27T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ariel-d.-procaccia/</loc>
-    <lastmod>2024-05-27T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bias_detection/</loc>
-    <lastmod>2024-05-27T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/itai-shapira/</loc>
-    <lastmod>2024-05-27T01:20:19-07:00</lastmod>
   </url>
   
   <url>
@@ -163,47 +208,12 @@
   </url>
   
   <url>
-    <loc>/authors/andrew-estornell/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kun-jin/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/recommender-system/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/user-creator/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaoying-zhang/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yang-liu/</loc>
-    <lastmod>2024-02-19T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/aggregation/</loc>
     <lastmod>2023-12-15T00:17:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/ccf-ce-2023/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url>
   

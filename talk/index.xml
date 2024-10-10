@@ -5,12 +5,30 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Persuasion with a Learning Agent</title>
+      <link>/talk/informs-2024/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/informs-2024/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2598&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here for talk info&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>/talk/esif-2024/</link>
+      <pubDate>Thu, 10 Oct 2024 02:29:37 -0400</pubDate>
+      <guid>/talk/esif-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Private Data Manipulation in Sponsored Search Auctions</title>
