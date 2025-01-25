@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Hugo Academic CV Theme</title>
+    <link>https://example.com/talks/</link>
+      <atom:link href="https://example.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/talks/</link>
+    </image>
+    
+    <item>
+      <title>How to Avoid Polarization in Recommender Systems with Dual Influence?</title>
+      <link>https://example.com/talks/2024-cuhk/</link>
+      <pubDate>Fri, 15 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2024-cuhk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Persuasion with a Learning Agent</title>
+      <link>https://example.com/talks/2024-informs/</link>
+      <pubDate>Sun, 20 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2024-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://example.com/talks/2024-esif/</link>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2024-esif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Data Manipulation in Sponsored Search Auctions</title>
+      <link>https://example.com/talks/2023-ccf-ce/</link>
+      <pubDate>Thu, 17 Aug 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2023-ccf-ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>https://example.com/talks/2023-pku/</link>
+      <pubDate>Wed, 14 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2023-pku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
+      <link>https://example.com/talks/2023-harvard/</link>
+      <pubDate>Fri, 03 Mar 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2023-harvard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>https://example.com/talks/2022-nash/</link>
+      <pubDate>Tue, 10 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2022-nash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Empirical Revenue Maximization in Auction Learning</title>
+      <link>https://example.com/talks/2020-erm/</link>
+      <pubDate>Wed, 23 Dec 2020 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/2020-erm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

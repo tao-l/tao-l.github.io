@@ -1,404 +1,277 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
+    <loc>https://example.com/example_talks/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_talks/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/lin-generalized-2025/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/paper-conference/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/lin-information-2025/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/lin-user-creator-2024/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/chen-bias-2024/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2024-cuhk/</loc>
+    <lastmod>2024-11-15T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/</loc>
+    <lastmod>2024-11-15T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2024-informs/</loc>
+    <lastmod>2024-10-20T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2024-esif/</loc>
+    <lastmod>2024-10-10T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/hossain-multi-sender-2024/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/zhang-learning-2024/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/lin-sample-2023/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/get-started/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/academic/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/hugo-blox/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_project/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/hugo/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_project/pandas/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_project/pytorch/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_project/scikit/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/wowchemy/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/data-visualization/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/teach-courses/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/hugo-blox-builder/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/javascript/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_teaching/js/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_teaching/python/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/python/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_teaching/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_post/project-management/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2023-ccf-ce/</loc>
+    <lastmod>2023-08-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2023-pku/</loc>
+    <lastmod>2023-06-14T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2023-harvard/</loc>
+    <lastmod>2023-03-03T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/deng-monopoly-2023/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/notes/lin-how-2022/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/manuscript/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/notes/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2022-nash/</loc>
+    <lastmod>2022-05-10T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/deng-nash-2022/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/revel-how-2022/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/2020-erm/</loc>
+    <lastmod>2020-12-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/fu-learning-2020/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/deng-game-theoretic-2020/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/internet-economics/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/private-data/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/deng-private-2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/sponsored-search-auction/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/notes/li-clearing-2019/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/article/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/large-language-models/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/article-journal/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/example_publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>/authors/_tao-lin_/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andrew-estornell/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kun-jin/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/recommender-system/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/user-creator/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaoying-zhang/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yang-liu/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yiling-chen/</loc>
-    <lastmod>2024-12-12T01:40:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/aaditya-ramdas/</loc>
-    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ariel-d.-procaccia/</loc>
-    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bias_detection/</loc>
-    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/information-design/</loc>
-    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/itai-shapira/</loc>
-    <lastmod>2024-12-10T01:20:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/informs-2024/</loc>
-    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/esif-2024/</loc>
-    <lastmod>2024-10-10T02:29:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/computational-complexity/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/david-parkes/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/haifeng-xu/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/multi-sender-bp/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/safwan-hossain/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tonghan-wang/</loc>
-    <lastmod>2024-07-23T22:02:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2024-06-18T22:03:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/learning-agent-bp/</loc>
-    <lastmod>2024-06-18T22:03:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mechanism-design/</loc>
-    <lastmod>2024-06-18T22:03:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/online-learning/</loc>
-    <lastmod>2024-06-18T22:03:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/auction-design/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jiahao-zhang/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/theshold/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/weiqiang-zheng/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaotie-deng/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yifeng-teng/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/zhe-feng/</loc>
-    <lastmod>2024-05-07T20:08:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ce-li/</loc>
-    <lastmod>2024-04-19T01:46:45-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/without_prior/</loc>
-    <lastmod>2024-04-19T01:46:45-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/aggregation/</loc>
-    <lastmod>2023-12-15T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/ccf-ce-2023/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/pku-cs-peer-talk-2023/</loc>
-    <lastmod>2023-06-14T01:26:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/harvard-econcs-2023/</loc>
-    <lastmod>2023-03-03T01:32:12-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/contest-theory/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/contest_competition/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hongyi-ling/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ron-lavi/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yotam-gafni/</loc>
-    <lastmod>2023-02-11T19:10:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/0/</loc>
-    <lastmod>2023-02-09T10:29:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/content/</loc>
-    <lastmod>2023-02-09T10:29:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-02-09T10:29:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/persuasion/</loc>
-    <lastmod>2023-02-08T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sample-erm-product/</loc>
-    <lastmod>2022-12-14T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/nash-convergence/</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/auction-theory/</loc>
-    <lastmod>2022-04-01T00:17:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fpa-convergence/</loc>
-    <lastmod>2022-04-01T00:17:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xinyan-hu/</loc>
-    <lastmod>2022-04-01T00:17:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniel-halpern/</loc>
-    <lastmod>2022-02-01T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/congress/</loc>
-    <lastmod>2022-02-01T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/manon-revel/</loc>
-    <lastmod>2022-02-01T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-choice/</loc>
-    <lastmod>2022-02-01T00:17:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/erm-itcs/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/erm/</loc>
-    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/qi-qi/</loc>
-    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wenwei-wang/</loc>
-    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiang-yan/</loc>
-    <lastmod>2020-12-10T22:52:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hu-fu/</loc>
-    <lastmod>2020-07-16T12:37:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fpa-sample/</loc>
-    <lastmod>2020-07-16T12:37:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pdm/</loc>
-    <lastmod>2020-03-28T23:22:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tao-xiao/</loc>
-    <lastmod>2020-03-28T23:22:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/matching-market/</loc>
-    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/market-clearing-price/</loc>
-    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaoming-li/</loc>
-    <lastmod>2019-12-02T00:41:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-12-01T16:19:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/market-clearing/</loc>
-    <lastmod>2019-12-01T16:19:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
 </urlset>
