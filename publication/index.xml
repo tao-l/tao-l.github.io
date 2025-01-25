@@ -1,142 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tao Lin</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 01:40:00 -0700</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://example.com/publication/</link>
     </image>
     
     <item>
-      <title>User-Creator Feature Dynamics in Recommender Systems with Dual Influence</title>
-      <link>/publication/user-creator/</link>
-      <pubDate>Thu, 12 Dec 2024 01:40:00 -0700</pubDate>
-      <guid>/publication/user-creator/</guid>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://example.com/publication/lin-generalized-2025/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lin-generalized-2025/</guid>
+      <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
+We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
+(2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.
+But (3) if the agent uses mean-based learning algorithms (which can be no-regret but not no-swap-regret), then the principal can sometimes do significantly better than $U^*$.
+These results not only refine previous results in Stackelberg games and contract design, but also lead to new results for Bayesian persuasion with a learning agent and all generalized principal-agent problems where the agent does not have private information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Design with Unknown Prior</title>
+      <link>https://example.com/publication/lin-information-2025/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lin-information-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bias Detection Via Signaling</title>
-      <link>/publication/bias_detection/</link>
-      <pubDate>Tue, 10 Dec 2024 01:20:19 -0700</pubDate>
-      <guid>/publication/bias_detection/</guid>
+      <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
+      <link>https://example.com/publication/lin-user-creator-2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lin-user-creator-2024/</guid>
+      <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bias Detection via Signaling</title>
+      <link>https://example.com/publication/chen-bias-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chen-bias-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Sender Persuasion: A Computational Perspective</title>
-      <link>/publication/multi-sender-bp/</link>
-      <pubDate>Tue, 23 Jul 2024 22:02:47 -0500</pubDate>
-      <guid>/publication/multi-sender-bp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>/publication/learning-agent-bp/</link>
-      <pubDate>Tue, 18 Jun 2024 22:03:05 -0500</pubDate>
-      <guid>/publication/learning-agent-bp/</guid>
+      <link>https://example.com/publication/hossain-multi-sender-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hossain-multi-sender-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Thresholds with Latent Values and Censored Feedback</title>
-      <link>/publication/theshold/</link>
-      <pubDate>Tue, 07 May 2024 20:08:29 +0800</pubDate>
-      <guid>/publication/theshold/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information Design with Unknown Prior</title>
-      <link>/publication/without_prior/</link>
-      <pubDate>Fri, 19 Apr 2024 01:46:45 -0700</pubDate>
-      <guid>/publication/without_prior/</guid>
+      <link>https://example.com/publication/zhang-learning-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang-learning-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>/publication/aggregation/</link>
-      <pubDate>Fri, 15 Dec 2023 00:17:19 -0400</pubDate>
-      <guid>/publication/aggregation/</guid>
+      <link>https://example.com/publication/lin-sample-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/lin-sample-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
-      <link>/publication/contest_competition/</link>
-      <pubDate>Sat, 11 Feb 2023 19:10:50 -0400</pubDate>
-      <guid>/publication/contest_competition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
-      <link>/publication/persuasion/</link>
-      <pubDate>Wed, 08 Feb 2023 00:17:19 -0400</pubDate>
-      <guid>/publication/persuasion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
-      <link>/publication/sample-erm-product/</link>
-      <pubDate>Wed, 14 Dec 2022 00:41:34 -0400</pubDate>
-      <guid>/publication/sample-erm-product/</guid>
+      <link>https://example.com/publication/deng-monopoly-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deng-monopoly-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
-      <link>/publication/fpa-convergence/</link>
-      <pubDate>Fri, 01 Apr 2022 00:17:36 -0400</pubDate>
-      <guid>/publication/fpa-convergence/</guid>
+      <link>https://example.com/publication/deng-nash-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deng-nash-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How Many Representatives Do We Need? The Optimal Size of an Epistemic Congress</title>
-      <link>/publication/congress/</link>
-      <pubDate>Tue, 01 Feb 2022 00:17:19 -0400</pubDate>
-      <guid>/publication/congress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
-      <link>/publication/erm/</link>
-      <pubDate>Thu, 10 Dec 2020 22:52:32 +0800</pubDate>
-      <guid>/publication/erm/</guid>
+      <title>How Many Representatives Do We Need? The Optimal Size of a Congress Voting on Binary Issues</title>
+      <link>https://example.com/publication/revel-how-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/revel-how-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
-      <link>/publication/fpa-sample/</link>
-      <pubDate>Thu, 16 Jul 2020 12:37:04 +0800</pubDate>
-      <guid>/publication/fpa-sample/</guid>
+      <link>https://example.com/publication/fu-learning-2020/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fu-learning-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
+      <link>https://example.com/publication/deng-game-theoretic-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deng-game-theoretic-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>/publication/pdm/</link>
-      <pubDate>Sat, 28 Mar 2020 23:22:36 +0800</pubDate>
-      <guid>/publication/pdm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
-      <link>/publication/market-clearing-price/</link>
-      <pubDate>Mon, 02 Dec 2019 00:41:34 -0400</pubDate>
-      <guid>/publication/market-clearing-price/</guid>
+      <link>https://example.com/publication/deng-private-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deng-private-2020/</guid>
       <description></description>
     </item>
     

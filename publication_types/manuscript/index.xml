@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Hugo Academic CV Theme</title>
+    <link>https://example.com/publication_types/manuscript/</link>
+      <atom:link href="https://example.com/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Manuscript</title>
+      <link>https://example.com/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
+      <link>https://example.com/notes/lin-how-2022/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/notes/lin-how-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
+      <link>https://example.com/notes/li-clearing-2019/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/notes/li-clearing-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
