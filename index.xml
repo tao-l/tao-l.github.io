@@ -47,6 +47,14 @@ These results not only refine previous results in Stackelberg games and contract
     </item>
     
     <item>
+      <title>Learning a Game by Paying the Agents</title>
+      <link>https://example.com/working_papers/zhang-learning-2025/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/working_papers/zhang-learning-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Information Design with Unknown Prior</title>
       <link>https://example.com/publication/lin-information-2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
@@ -116,6 +124,14 @@ These results not only refine previous results in Stackelberg games and contract
       <link>https://example.com/publication/zhang-learning-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/zhang-learning-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
+      <link>https://example.com/journal_pub/deng-monopoly-2024/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/journal_pub/deng-monopoly-2024/</guid>
       <description></description>
     </item>
     
@@ -364,7 +380,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-498132756&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-573914268&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -382,7 +398,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-498132756&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-573914268&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

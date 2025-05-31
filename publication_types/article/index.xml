@@ -5,12 +5,20 @@
     <link>https://example.com/publication_types/article/</link>
       <atom:link href="https://example.com/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
       <link>https://example.com/publication_types/article/</link>
     </image>
+    
+    <item>
+      <title>Learning a Game by Paying the Agents</title>
+      <link>https://example.com/working_papers/zhang-learning-2025/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/working_papers/zhang-learning-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
