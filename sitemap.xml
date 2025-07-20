@@ -10,15 +10,27 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/publication_types/article-journal/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/journal_pub/deng-monopoly-2024/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/journal_pub/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication_types/article/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/working_papers/fu-learning-2025/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -80,18 +92,6 @@
   </url><url>
     <loc>https://example.com/publication/zhang-learning-2024/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/article-journal/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/journal_pub/deng-monopoly-2024/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/journal_pub/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/lin-sample-2023/</loc>
