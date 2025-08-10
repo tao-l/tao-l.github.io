@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsored Search Auction | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/sponsored-search-auction/</link>
-      <atom:link href="https://example.com/tags/sponsored-search-auction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tao-l.github.io/tags/sponsored-search-auction/</link>
+      <atom:link href="https://tao-l.github.io/tags/sponsored-search-auction/index.xml" rel="self" type="application/rss+xml" />
     <description>Sponsored Search Auction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Sponsored Search Auction</title>
-      <link>https://example.com/tags/sponsored-search-auction/</link>
+      <link>https://tao-l.github.io/tags/sponsored-search-auction/</link>
     </image>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>https://example.com/publication/deng-private-2020/</link>
+      <link>https://tao-l.github.io/publication/deng-private-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-private-2020/</guid>
+      <guid>https://tao-l.github.io/publication/deng-private-2020/</guid>
       <description></description>
     </item>
     
