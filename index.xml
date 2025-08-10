@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tao Lin&#39;s Homepage | Hugo Academic CV Theme</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tao-l.github.io/</link>
+      <atom:link href="https://tao-l.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lin&#39;s Homepage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Tao Lin&#39;s Homepage</title>
-      <link>https://example.com/</link>
+      <link>https://tao-l.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/example_talks/example/</link>
+      <link>https://tao-l.github.io/example_talks/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/example_talks/example/</guid>
+      <guid>https://tao-l.github.io/example_talks/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,25 +35,25 @@
     
     <item>
       <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
-      <link>https://example.com/journal_pub/deng-monopoly-2024/</link>
+      <link>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/journal_pub/deng-monopoly-2024/</guid>
+      <guid>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Coordinate Bidders in Non-Truthful Auctions</title>
-      <link>https://example.com/working_papers/fu-learning-2025/</link>
+      <link>https://tao-l.github.io/working_papers/fu-learning-2025/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/fu-learning-2025/</guid>
+      <guid>https://tao-l.github.io/working_papers/fu-learning-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://example.com/publication/lin-generalized-2025/</link>
+      <link>https://tao-l.github.io/publication/lin-generalized-2025/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-generalized-2025/</guid>
+      <guid>https://tao-l.github.io/publication/lin-generalized-2025/</guid>
       <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
 We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
 (2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.
@@ -64,98 +64,98 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>Learning a Game by Paying the Agents</title>
-      <link>https://example.com/working_papers/zhang-learning-2025/</link>
+      <link>https://tao-l.github.io/working_papers/zhang-learning-2025/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/zhang-learning-2025/</guid>
+      <guid>https://tao-l.github.io/working_papers/zhang-learning-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Design with Unknown Prior</title>
-      <link>https://example.com/publication/lin-information-2025/</link>
+      <link>https://tao-l.github.io/publication/lin-information-2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-information-2025/</guid>
+      <guid>https://tao-l.github.io/publication/lin-information-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
-      <link>https://example.com/publication/lin-user-creator-2024/</link>
+      <link>https://tao-l.github.io/publication/lin-user-creator-2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-user-creator-2024/</guid>
+      <guid>https://tao-l.github.io/publication/lin-user-creator-2024/</guid>
       <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bias Detection via Signaling</title>
-      <link>https://example.com/publication/chen-bias-2024/</link>
+      <link>https://tao-l.github.io/publication/chen-bias-2024/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chen-bias-2024/</guid>
+      <guid>https://tao-l.github.io/publication/chen-bias-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Avoid Polarization in Recommender Systems with Dual Influence?</title>
-      <link>https://example.com/talks/2024-cuhk/</link>
+      <link>https://tao-l.github.io/talks/2024-cuhk/</link>
       <pubDate>Fri, 15 Nov 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2024-cuhk/</guid>
+      <guid>https://tao-l.github.io/talks/2024-cuhk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Persuasion with a Learning Agent</title>
-      <link>https://example.com/talks/2024-informs/</link>
+      <link>https://tao-l.github.io/talks/2024-informs/</link>
       <pubDate>Sun, 20 Oct 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2024-informs/</guid>
+      <guid>https://tao-l.github.io/talks/2024-informs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://example.com/talks/2024-esif/</link>
+      <link>https://tao-l.github.io/talks/2024-esif/</link>
       <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2024-esif/</guid>
+      <guid>https://tao-l.github.io/talks/2024-esif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Sender Persuasion: A Computational Perspective</title>
-      <link>https://example.com/publication/hossain-multi-sender-2024/</link>
+      <link>https://tao-l.github.io/publication/hossain-multi-sender-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hossain-multi-sender-2024/</guid>
+      <guid>https://tao-l.github.io/publication/hossain-multi-sender-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/example_projects/</link>
+      <link>https://tao-l.github.io/example_projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_projects/</guid>
+      <guid>https://tao-l.github.io/example_projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Thresholds with Latent Values and Censored Feedback</title>
-      <link>https://example.com/publication/zhang-learning-2024/</link>
+      <link>https://tao-l.github.io/publication/zhang-learning-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-learning-2024/</guid>
+      <guid>https://tao-l.github.io/publication/zhang-learning-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>https://example.com/publication/lin-sample-2023/</link>
+      <link>https://tao-l.github.io/publication/lin-sample-2023/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-sample-2023/</guid>
+      <guid>https://tao-l.github.io/publication/lin-sample-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/example_post/get-started/</link>
+      <link>https://tao-l.github.io/example_post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_post/get-started/</guid>
+      <guid>https://tao-l.github.io/example_post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -239,33 +239,33 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>Pandas</title>
-      <link>https://example.com/example_project/pandas/</link>
+      <link>https://tao-l.github.io/example_project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_project/pandas/</guid>
+      <guid>https://tao-l.github.io/example_project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://example.com/example_project/pytorch/</link>
+      <link>https://tao-l.github.io/example_project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_project/pytorch/</guid>
+      <guid>https://tao-l.github.io/example_project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://example.com/example_project/scikit/</link>
+      <link>https://tao-l.github.io/example_project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_project/scikit/</guid>
+      <guid>https://tao-l.github.io/example_project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/example_post/second-brain/</link>
+      <link>https://tao-l.github.io/example_post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_post/second-brain/</guid>
+      <guid>https://tao-l.github.io/example_post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -375,9 +375,9 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/example_post/data-visualization/</link>
+      <link>https://tao-l.github.io/example_post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_post/data-visualization/</guid>
+      <guid>https://tao-l.github.io/example_post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -388,7 +388,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-349781625&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-523769184&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -406,7 +406,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-349781625&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-523769184&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -585,9 +585,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/example_post/teach-courses/</link>
+      <link>https://tao-l.github.io/example_post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_post/teach-courses/</guid>
+      <guid>https://tao-l.github.io/example_post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -637,7 +637,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/example_post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://tao-l.github.io/example_post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -696,17 +696,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/example_experience/</link>
+      <link>https://tao-l.github.io/example_experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_experience/</guid>
+      <guid>https://tao-l.github.io/example_experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://example.com/example_teaching/js/</link>
+      <link>https://tao-l.github.io/example_teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_teaching/js/</guid>
+      <guid>https://tao-l.github.io/example_teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -750,7 +750,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/example_teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://tao-l.github.io/example_teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -827,9 +827,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://example.com/example_teaching/python/</link>
+      <link>https://tao-l.github.io/example_teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_teaching/python/</guid>
+      <guid>https://tao-l.github.io/example_teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -873,7 +873,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/example_teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://tao-l.github.io/example_teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -950,9 +950,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/example_post/project-management/</link>
+      <link>https://tao-l.github.io/example_post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_post/project-management/</guid>
+      <guid>https://tao-l.github.io/example_post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1025,114 +1025,114 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Private Data Manipulation in Sponsored Search Auctions</title>
-      <link>https://example.com/talks/2023-ccf-ce/</link>
+      <link>https://tao-l.github.io/talks/2023-ccf-ce/</link>
       <pubDate>Thu, 17 Aug 2023 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2023-ccf-ce/</guid>
+      <guid>https://tao-l.github.io/talks/2023-ccf-ce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>https://example.com/talks/2023-pku/</link>
+      <link>https://tao-l.github.io/talks/2023-pku/</link>
       <pubDate>Wed, 14 Jun 2023 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2023-pku/</guid>
+      <guid>https://tao-l.github.io/talks/2023-pku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persuading a Behavioral Agent: Approximately Best Responding and Learning</title>
-      <link>https://example.com/talks/2023-harvard/</link>
+      <link>https://tao-l.github.io/talks/2023-harvard/</link>
       <pubDate>Fri, 03 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2023-harvard/</guid>
+      <guid>https://tao-l.github.io/talks/2023-harvard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
-      <link>https://example.com/publication/deng-monopoly-2023/</link>
+      <link>https://tao-l.github.io/publication/deng-monopoly-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-monopoly-2023/</guid>
+      <guid>https://tao-l.github.io/publication/deng-monopoly-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>
-      <link>https://example.com/notes/lin-how-2022/</link>
+      <link>https://tao-l.github.io/notes/lin-how-2022/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/notes/lin-how-2022/</guid>
+      <guid>https://tao-l.github.io/notes/lin-how-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
-      <link>https://example.com/talks/2022-nash/</link>
+      <link>https://tao-l.github.io/talks/2022-nash/</link>
       <pubDate>Tue, 10 May 2022 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2022-nash/</guid>
+      <guid>https://tao-l.github.io/talks/2022-nash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
-      <link>https://example.com/publication/deng-nash-2022/</link>
+      <link>https://tao-l.github.io/publication/deng-nash-2022/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-nash-2022/</guid>
+      <guid>https://tao-l.github.io/publication/deng-nash-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Many Representatives Do We Need? The Optimal Size of a Congress Voting on Binary Issues</title>
-      <link>https://example.com/publication/revel-how-2022/</link>
+      <link>https://tao-l.github.io/publication/revel-how-2022/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/revel-how-2022/</guid>
+      <guid>https://tao-l.github.io/publication/revel-how-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustness of Empirical Revenue Maximization in Auction Learning</title>
-      <link>https://example.com/talks/2020-erm/</link>
+      <link>https://tao-l.github.io/talks/2020-erm/</link>
       <pubDate>Wed, 23 Dec 2020 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/2020-erm/</guid>
+      <guid>https://tao-l.github.io/talks/2020-erm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
-      <link>https://example.com/publication/fu-learning-2020/</link>
+      <link>https://tao-l.github.io/publication/fu-learning-2020/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fu-learning-2020/</guid>
+      <guid>https://tao-l.github.io/publication/fu-learning-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
-      <link>https://example.com/publication/deng-game-theoretic-2020/</link>
+      <link>https://tao-l.github.io/publication/deng-game-theoretic-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-game-theoretic-2020/</guid>
+      <guid>https://tao-l.github.io/publication/deng-game-theoretic-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>https://example.com/publication/deng-private-2020/</link>
+      <link>https://tao-l.github.io/publication/deng-private-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-private-2020/</guid>
+      <guid>https://tao-l.github.io/publication/deng-private-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Clearing Prices in Matching Markets: A Simple Characterization without Duality</title>
-      <link>https://example.com/notes/li-clearing-2019/</link>
+      <link>https://tao-l.github.io/notes/li-clearing-2019/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/notes/li-clearing-2019/</guid>
+      <guid>https://tao-l.github.io/notes/li-clearing-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/example_publication/preprint/</link>
+      <link>https://tao-l.github.io/example_publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://tao-l.github.io/example_publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://tao-l.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1145,9 +1145,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/example_publication/journal-article/</link>
+      <link>https://tao-l.github.io/example_publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_publication/journal-article/</guid>
+      <guid>https://tao-l.github.io/example_publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1166,9 +1166,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/example_publication/conference-paper/</link>
+      <link>https://tao-l.github.io/example_publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example_publication/conference-paper/</guid>
+      <guid>https://tao-l.github.io/example_publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tao-l.github.io/publication/</link>
+      <atom:link href="https://tao-l.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://tao-l.github.io/publication/</link>
     </image>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://example.com/publication/lin-generalized-2025/</link>
+      <link>https://tao-l.github.io/publication/lin-generalized-2025/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-generalized-2025/</guid>
+      <guid>https://tao-l.github.io/publication/lin-generalized-2025/</guid>
       <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
 We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
 (2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.
@@ -27,98 +27,98 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>Information Design with Unknown Prior</title>
-      <link>https://example.com/publication/lin-information-2025/</link>
+      <link>https://tao-l.github.io/publication/lin-information-2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-information-2025/</guid>
+      <guid>https://tao-l.github.io/publication/lin-information-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
-      <link>https://example.com/publication/lin-user-creator-2024/</link>
+      <link>https://tao-l.github.io/publication/lin-user-creator-2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-user-creator-2024/</guid>
+      <guid>https://tao-l.github.io/publication/lin-user-creator-2024/</guid>
       <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bias Detection via Signaling</title>
-      <link>https://example.com/publication/chen-bias-2024/</link>
+      <link>https://tao-l.github.io/publication/chen-bias-2024/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chen-bias-2024/</guid>
+      <guid>https://tao-l.github.io/publication/chen-bias-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Sender Persuasion: A Computational Perspective</title>
-      <link>https://example.com/publication/hossain-multi-sender-2024/</link>
+      <link>https://tao-l.github.io/publication/hossain-multi-sender-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hossain-multi-sender-2024/</guid>
+      <guid>https://tao-l.github.io/publication/hossain-multi-sender-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Thresholds with Latent Values and Censored Feedback</title>
-      <link>https://example.com/publication/zhang-learning-2024/</link>
+      <link>https://tao-l.github.io/publication/zhang-learning-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang-learning-2024/</guid>
+      <guid>https://tao-l.github.io/publication/zhang-learning-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>https://example.com/publication/lin-sample-2023/</link>
+      <link>https://tao-l.github.io/publication/lin-sample-2023/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lin-sample-2023/</guid>
+      <guid>https://tao-l.github.io/publication/lin-sample-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
-      <link>https://example.com/publication/deng-monopoly-2023/</link>
+      <link>https://tao-l.github.io/publication/deng-monopoly-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-monopoly-2023/</guid>
+      <guid>https://tao-l.github.io/publication/deng-monopoly-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
-      <link>https://example.com/publication/deng-nash-2022/</link>
+      <link>https://tao-l.github.io/publication/deng-nash-2022/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-nash-2022/</guid>
+      <guid>https://tao-l.github.io/publication/deng-nash-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Many Representatives Do We Need? The Optimal Size of a Congress Voting on Binary Issues</title>
-      <link>https://example.com/publication/revel-how-2022/</link>
+      <link>https://tao-l.github.io/publication/revel-how-2022/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/revel-how-2022/</guid>
+      <guid>https://tao-l.github.io/publication/revel-how-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
-      <link>https://example.com/publication/fu-learning-2020/</link>
+      <link>https://tao-l.github.io/publication/fu-learning-2020/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fu-learning-2020/</guid>
+      <guid>https://tao-l.github.io/publication/fu-learning-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
-      <link>https://example.com/publication/deng-game-theoretic-2020/</link>
+      <link>https://tao-l.github.io/publication/deng-game-theoretic-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-game-theoretic-2020/</guid>
+      <guid>https://tao-l.github.io/publication/deng-game-theoretic-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>https://example.com/publication/deng-private-2020/</link>
+      <link>https://tao-l.github.io/publication/deng-private-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deng-private-2020/</guid>
+      <guid>https://tao-l.github.io/publication/deng-private-2020/</guid>
       <description></description>
     </item>
     
