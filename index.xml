@@ -34,6 +34,55 @@
     </item>
     
     <item>
+      <title>A Unified Approach to Submodular Maximization Under Noise</title>
+      <link>https://tao-l.github.io/publication/submodular-2025/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/publication/submodular-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Coordinate Bidders in Non-Truthful Auctions</title>
+      <link>https://tao-l.github.io/talks/2025-informs/</link>
+      <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2025-informs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
+      <link>https://tao-l.github.io/working_papers/personnat-learning-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/personnat-learning-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design With Large Language Models</title>
+      <link>https://tao-l.github.io/working_papers/info-llm-2025/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/info-llm-2025/</guid>
+      <description>&lt;p&gt;Information design is typically studied through the lens of Bayesian signaling, where signals shape beliefs based on their correlation with the true state of the world. However, Behavioral Economics and Psychology emphasize that human decision-making is more complex and can depend on how information is framed. This paper formalizes a language-based notion of framing and bridges this to the popular Bayesian-persuasion model. We model framing as a possibly non-Bayesian, linguistic way to influence a receiver&amp;rsquo;s belief, while a signaling (or recommendation) scheme can further refine this belief in the classic Bayesian way. A key challenge in systematically optimizing in this framework is the vast space of possible framings and the difficulty of predicting their effects on receivers. Based on growing evidence that Large Language Models (LLMs) can effectively serve as proxies for human behavior, we formulate a theoretical model based on access to a framing-to-belief oracle. This model then enables us to precisely characterize when solely optimizing framing or jointly optimizing framing and signaling is tractable. We substantiate our theoretical analysis with an empirical algorithm that leverages LLMs to (1) approximate the framing-to-belief oracle, and (2) optimize over language space using a hill-climbing method. We apply this to two marketing-inspired case studies and validate the effectiveness through analytical and human evaluation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WOMAC: A Mechanism For Prediction Competitions</title>
+      <link>https://tao-l.github.io/working_papers/womac-2025/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/womac-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Information Design</title>
+      <link>https://tao-l.github.io/working_papers/exp-info-2025/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/exp-info-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
       <link>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
@@ -388,7 +437,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-523769184&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915786423&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -406,7 +455,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-523769184&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-915786423&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
