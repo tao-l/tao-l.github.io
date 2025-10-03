@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/talks/</link>
       <atom:link href="https://tao-l.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://tao-l.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Learning to Coordinate Bidders in Non-Truthful Auctions</title>
+      <link>https://tao-l.github.io/talks/2025-informs/</link>
+      <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2025-informs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to Avoid Polarization in Recommender Systems with Dual Influence?</title>

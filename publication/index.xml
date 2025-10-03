@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/publication/</link>
       <atom:link href="https://tao-l.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://tao-l.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Unified Approach to Submodular Maximization Under Noise</title>
+      <link>https://tao-l.github.io/publication/submodular-2025/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/publication/submodular-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
