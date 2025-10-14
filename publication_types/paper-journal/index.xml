@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journal Publications | Hugo Academic CV Theme</title>
-    <link>https://tao-l.github.io/journal_pub/</link>
-      <atom:link href="https://tao-l.github.io/journal_pub/index.xml" rel="self" type="application/rss+xml" />
-    <description>Journal Publications</description>
+    <title>Paper-Journal | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/publication_types/paper-journal/</link>
+      <atom:link href="https://tao-l.github.io/publication_types/paper-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>Journal Publications</title>
-      <link>https://tao-l.github.io/journal_pub/</link>
+      <title>Paper-Journal</title>
+      <link>https://tao-l.github.io/publication_types/paper-journal/</link>
     </image>
     
     <item>
@@ -19,14 +19,6 @@
       <guid>https://tao-l.github.io/journal_pub/lin-generalized-2025/</guid>
       <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
-      <link>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</guid>
-      <description></description>
     </item>
     
   </channel>

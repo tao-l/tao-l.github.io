@@ -50,6 +50,30 @@
     </item>
     
     <item>
+      <title>For Prospective Students</title>
+      <link>https://tao-l.github.io/post/student/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/post/student/</guid>
+      <description>&lt;p&gt;I am looking for PhD and MPhil students starting in Fall 2026.  If you have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;strong interest in pursuing interdisciplinary research across Computer Science, Data Science, and Economics;&lt;/li&gt;
+&lt;li&gt;good mathematical background and coding skills;&lt;/li&gt;
+&lt;li&gt;(bonus) ample experience in prompting GenAI tools and judging whether their responses are correct;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;then please consider applying to the MPhil-PhD Program in &lt;a href=&#34;https://sds.cuhk.edu.cn/en/phd-programmes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science&lt;/a&gt; or &lt;a href=&#34;https://sds.cuhk.edu.cn/en/phd-programmes-CSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science&lt;/a&gt; of CUHK-Shenzhen, SDS, and mention my name in your application.  Feel free to contact me at &lt;a href=&#34;mailto:lintao@cuhk.edu.cn&#34;&gt;lintao@cuhk.edu.cn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://tao-l.github.io/journal_pub/lin-generalized-2025/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/journal_pub/lin-generalized-2025/</guid>
+      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
       <link>https://tao-l.github.io/working_papers/personnat-learning-2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
@@ -437,7 +461,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-915786423&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-186495273&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -455,7 +479,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-915786423&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-186495273&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
