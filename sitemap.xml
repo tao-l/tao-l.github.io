@@ -10,7 +10,7 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/submodular-2025/</loc>
+    <loc>https://tao-l.github.io/pub_conference/submodular-2025/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,7 +22,15 @@
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/</loc>
+    <loc>https://tao-l.github.io/pub_conference/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/submodular-optimization/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,11 +50,19 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/journal_pub/lin-generalized-2025/</loc>
+    <loc>https://tao-l.github.io/pub_journal/lin-generalized-2025/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/journal_pub/</loc>
+    <loc>https://tao-l.github.io/tags/information-design/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_journal/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/online-learning/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,11 +70,27 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tao-l.github.io/tags/principal-agent-problem/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/stackelberg-game/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tao-l.github.io/publication_types/article/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tao-l.github.io/tags/behavioral-economics/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tao-l.github.io/working_papers/info-llm-2025/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/large-language-model/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -70,27 +102,67 @@
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tao-l.github.io/tags/information-elicitation/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/mechanism-design/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tao-l.github.io/working_papers/womac-2025/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/approximation-algorithm/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/explainability/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tao-l.github.io/working_papers/exp-info-2025/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication_types/article-journal/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <loc>https://tao-l.github.io/tags/auction-theory/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/journal_pub/deng-monopoly-2024/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <loc>https://tao-l.github.io/tags/correlated-equilibrium/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/equilibrium-computation/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tao-l.github.io/working_papers/fu-learning-2025/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/lin-generalized-2025/</loc>
+    <loc>https://tao-l.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/publication_types/article-journal/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/contest-theory/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/game-theory/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_conference/lin-generalized-2025/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,15 +170,35 @@
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/lin-information-2025/</loc>
+    <loc>https://tao-l.github.io/tags/multi-agent-learning/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/revealed-preference/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_conference/lin-information-2025/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/lin-user-creator-2024/</loc>
+    <loc>https://tao-l.github.io/tags/polarization/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/chen-bias-2024/</loc>
+    <loc>https://tao-l.github.io/tags/preference-dynamics/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/recommender-system/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_conference/chen-bias-2024/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,7 +214,7 @@
     <lastmod>2024-10-10T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/hossain-multi-sender-2024/</loc>
+    <loc>https://tao-l.github.io/pub_conference/hossain-multi-sender-2024/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -130,11 +222,19 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/zhang-learning-2024/</loc>
+    <loc>https://tao-l.github.io/tags/dynamic-pricing/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/lin-sample-2023/</loc>
+    <loc>https://tao-l.github.io/pub_conference/zhang-learning-2024/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/information-aggregation/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/pub_conference/lin-sample-2023/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -158,7 +258,11 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/tags/</loc>
+    <loc>https://tao-l.github.io/news/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/news/2025-informs-talk/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -246,7 +350,7 @@
     <lastmod>2023-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/deng-monopoly-2023/</loc>
+    <loc>https://tao-l.github.io/pub_conference/deng-monopoly-2023/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -270,11 +374,15 @@
     <lastmod>2022-05-10T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/deng-nash-2022/</loc>
+    <loc>https://tao-l.github.io/pub_conference/deng-nash-2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/revel-how-2022/</loc>
+    <loc>https://tao-l.github.io/pub_conference/revel-how-2022/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/social-choice/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -282,27 +390,15 @@
     <lastmod>2020-12-23T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/fu-learning-2020/</loc>
+    <loc>https://tao-l.github.io/pub_conference/fu-learning-2020/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication/deng-game-theoretic-2020/</loc>
+    <loc>https://tao-l.github.io/pub_conference/deng-game-theoretic-2020/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/tags/internet-economics/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tao-l.github.io/tags/private-data/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tao-l.github.io/publication/deng-private-2020/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tao-l.github.io/tags/sponsored-search-auction/</loc>
+    <loc>https://tao-l.github.io/pub_conference/deng-private-2020/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -332,6 +428,9 @@
   </url><url>
     <loc>https://tao-l.github.io/example_publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/publication_page/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

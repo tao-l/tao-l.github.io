@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behavioral Economics | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/behavioral-economics/</link>
+      <atom:link href="https://tao-l.github.io/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behavioral Economics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Behavioral Economics</title>
+      <link>https://tao-l.github.io/tags/behavioral-economics/</link>
+    </image>
+    
+    <item>
+      <title>Information Design With Large Language Models</title>
+      <link>https://tao-l.github.io/working_papers/info-llm-2025/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/info-llm-2025/</guid>
+      <description>&lt;p&gt;Information design is typically studied through the lens of Bayesian signaling, where signals shape beliefs based on their correlation with the true state of the world. However, Behavioral Economics and Psychology emphasize that human decision-making is more complex and can depend on how information is framed. This paper formalizes a language-based notion of framing and bridges this to the popular Bayesian-persuasion model. We model framing as a possibly non-Bayesian, linguistic way to influence a receiver&amp;rsquo;s belief, while a signaling (or recommendation) scheme can further refine this belief in the classic Bayesian way. A key challenge in systematically optimizing in this framework is the vast space of possible framings and the difficulty of predicting their effects on receivers. Based on growing evidence that Large Language Models (LLMs) can effectively serve as proxies for human behavior, we formulate a theoretical model based on access to a framing-to-belief oracle. This model then enables us to precisely characterize when solely optimizing framing or jointly optimizing framing and signaling is tractable. We substantiate our theoretical analysis with an empirical algorithm that leverages LLMs to (1) approximate the framing-to-belief oracle, and (2) optimize over language space using a hill-climbing method. We apply this to two marketing-inspired case studies and validate the effectiveness through analytical and human evaluation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bias Detection via Signaling</title>
+      <link>https://tao-l.github.io/pub_conference/chen-bias-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/chen-bias-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

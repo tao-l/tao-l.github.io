@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polarization | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/polarization/</link>
+      <atom:link href="https://tao-l.github.io/tags/polarization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polarization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Polarization</title>
+      <link>https://tao-l.github.io/tags/polarization/</link>
+    </image>
+    
+    <item>
+      <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
+      <link>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</guid>
+      <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

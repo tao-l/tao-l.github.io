@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Pricing | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/dynamic-pricing/</link>
+      <atom:link href="https://tao-l.github.io/tags/dynamic-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic Pricing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Dynamic Pricing</title>
+      <link>https://tao-l.github.io/tags/dynamic-pricing/</link>
+    </image>
+    
+    <item>
+      <title>Learning Thresholds with Latent Values and Censored Feedback</title>
+      <link>https://tao-l.github.io/pub_conference/zhang-learning-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/zhang-learning-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Aggregation | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/information-aggregation/</link>
+      <atom:link href="https://tao-l.github.io/tags/information-aggregation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Aggregation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Information Aggregation</title>
+      <link>https://tao-l.github.io/tags/information-aggregation/</link>
+    </image>
+    
+    <item>
+      <title>Sample Complexity of Forecast Aggregation</title>
+      <link>https://tao-l.github.io/pub_conference/lin-sample-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/lin-sample-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
