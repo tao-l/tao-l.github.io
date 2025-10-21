@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal-Agent Problem | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/principal-agent-problem/</link>
+      <atom:link href="https://tao-l.github.io/tags/principal-agent-problem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal-Agent Problem</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Principal-Agent Problem</title>
+      <link>https://tao-l.github.io/tags/principal-agent-problem/</link>
+    </image>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://tao-l.github.io/pub_journal/lin-generalized-2025/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/lin-generalized-2025/</guid>
+      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
+      <link>https://tao-l.github.io/working_papers/personnat-learning-2025/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/personnat-learning-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://tao-l.github.io/pub_conference/lin-generalized-2025/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/lin-generalized-2025/</guid>
+      <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
+We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
+(2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.
+But (3) if the agent uses mean-based learning algorithms (which can be no-regret but not no-swap-regret), then the principal can sometimes do significantly better than $U^*$.
+These results not only refine previous results in Stackelberg games and contract design, but also lead to new results for Bayesian persuasion with a learning agent and all generalized principal-agent problems where the agent does not have private information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

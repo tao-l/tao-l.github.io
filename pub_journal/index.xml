@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal Publications | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/pub_journal/</link>
+      <atom:link href="https://tao-l.github.io/pub_journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Journal Publications</title>
+      <link>https://tao-l.github.io/pub_journal/</link>
+    </image>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://tao-l.github.io/pub_journal/lin-generalized-2025/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/lin-generalized-2025/</guid>
+      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
+      <link>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</guid>
+      <description>&lt;p&gt;Full journal version of our AAAI 2023 paper &lt;a href=&#34;https://tao-l.github.io/publication/deng-monopoly-2023&#34;&gt;&amp;ldquo;From Monopoly to Competition: Optimal Contests Prevail&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

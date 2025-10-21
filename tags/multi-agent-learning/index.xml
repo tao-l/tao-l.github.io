@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Agent Learning | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/multi-agent-learning/</link>
+      <atom:link href="https://tao-l.github.io/tags/multi-agent-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Agent Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Multi-Agent Learning</title>
+      <link>https://tao-l.github.io/tags/multi-agent-learning/</link>
+    </image>
+    
+    <item>
+      <title>Learning a Game by Paying the Agents</title>
+      <link>https://tao-l.github.io/working_papers/zhang-learning-2025/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/zhang-learning-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Sender Persuasion: A Computational Perspective</title>
+      <link>https://tao-l.github.io/pub_conference/hossain-multi-sender-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/hossain-multi-sender-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>https://tao-l.github.io/pub_conference/deng-nash-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/deng-nash-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

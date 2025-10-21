@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Choice | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/social-choice/</link>
+      <atom:link href="https://tao-l.github.io/tags/social-choice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Choice</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Social Choice</title>
+      <link>https://tao-l.github.io/tags/social-choice/</link>
+    </image>
+    
+    <item>
+      <title>How Many Representatives Do We Need? The Optimal Size of a Congress Voting on Binary Issues</title>
+      <link>https://tao-l.github.io/pub_conference/revel-how-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/revel-how-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

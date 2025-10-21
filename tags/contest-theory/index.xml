@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contest Theory | Hugo Academic CV Theme</title>
+    <link>https://tao-l.github.io/tags/contest-theory/</link>
+      <atom:link href="https://tao-l.github.io/tags/contest-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contest Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Contest Theory</title>
+      <link>https://tao-l.github.io/tags/contest-theory/</link>
+    </image>
+    
+    <item>
+      <title>From Monopoly to Competition: When Do Optimal Contests Prevail?</title>
+      <link>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</guid>
+      <description>&lt;p&gt;Full journal version of our AAAI 2023 paper &lt;a href=&#34;https://tao-l.github.io/publication/deng-monopoly-2023&#34;&gt;&amp;ldquo;From Monopoly to Competition: Optimal Contests Prevail&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Monopoly to Competition: Optimal Contests Prevail</title>
+      <link>https://tao-l.github.io/pub_conference/deng-monopoly-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/deng-monopoly-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
