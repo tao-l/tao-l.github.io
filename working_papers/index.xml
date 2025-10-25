@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working Papers | Hugo Academic CV Theme</title>
+    <title>Working Papers | </title>
     <link>https://tao-l.github.io/working_papers/</link>
       <atom:link href="https://tao-l.github.io/working_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
