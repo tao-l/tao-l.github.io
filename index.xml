@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tao Lin&#39;s Homepage | Hugo Academic CV Theme</title>
+    <title>Tao Lin&#39;s Homepage | </title>
     <link>https://tao-l.github.io/</link>
       <atom:link href="https://tao-l.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Lin&#39;s Homepage</description>
@@ -471,7 +471,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-798342156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-423561978&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -489,7 +489,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-798342156&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-423561978&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
