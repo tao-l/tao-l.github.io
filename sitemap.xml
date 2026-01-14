@@ -10,6 +10,18 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tao-l.github.io/talks/2026-shanghai/</loc>
+    <lastmod>2026-01-07T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/talks/</loc>
+    <lastmod>2026-01-07T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/talks/2026-poms-hk/</loc>
+    <lastmod>2026-01-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tao-l.github.io/pub_conference/submodular-2025/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,11 +46,31 @@
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/talks/2025-informs/</loc>
-    <lastmod>2025-10-27T16:00:00+00:00</lastmod>
+    <loc>https://tao-l.github.io/publication_types/article/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/talks/</loc>
+    <loc>https://tao-l.github.io/tags/auction-theory/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/auto-bidding/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/working_papers/guan-coordination-2025/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/tags/online-learning/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/working_papers/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tao-l.github.io/talks/2025-informs/</loc>
     <lastmod>2025-10-27T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -62,10 +94,6 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/tags/online-learning/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tao-l.github.io/publication_types/paper-journal/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,10 +106,6 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tao-l.github.io/publication_types/article/</loc>
-    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tao-l.github.io/tags/behavioral-economics/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,10 +115,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tao-l.github.io/tags/large-language-model/</loc>
-    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tao-l.github.io/working_papers/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -124,10 +144,6 @@
   </url><url>
     <loc>https://tao-l.github.io/working_papers/exp-info-2025/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tao-l.github.io/tags/auction-theory/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tao-l.github.io/tags/correlated-equilibrium/</loc>

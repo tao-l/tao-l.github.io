@@ -34,10 +34,34 @@
     </item>
     
     <item>
+      <title>Non-Bayesian Information Design: Learning and LLM-Based Approaches</title>
+      <link>https://tao-l.github.io/talks/2026-shanghai/</link>
+      <pubDate>Wed, 07 Jan 2026 11:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-poms-hk/</link>
+      <pubDate>Sun, 04 Jan 2026 11:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-poms-hk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Unified Approach to Submodular Maximization Under Noise</title>
       <link>https://tao-l.github.io/pub_conference/submodular-2025/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/pub_conference/submodular-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Coordination of Value-Maximizing Bidders</title>
+      <link>https://tao-l.github.io/working_papers/guan-coordination-2025/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/guan-coordination-2025/</guid>
       <description></description>
     </item>
     
@@ -471,7 +495,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-423561978&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-685274193&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -489,7 +513,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-423561978&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-685274193&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

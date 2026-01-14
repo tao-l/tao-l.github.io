@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/working_papers/</link>
       <atom:link href="https://tao-l.github.io/working_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Working Papers</title>
       <link>https://tao-l.github.io/working_papers/</link>
     </image>
+    
+    <item>
+      <title>On the Coordination of Value-Maximizing Bidders</title>
+      <link>https://tao-l.github.io/working_papers/guan-coordination-2025/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/guan-coordination-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Information Design With Large Language Models</title>
