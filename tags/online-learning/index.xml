@@ -66,5 +66,21 @@ These results not only refine previous results in Stackelberg games and contract
       <description></description>
     </item>
     
+    <item>
+      <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
+      <link>https://tao-l.github.io/pub_conference/deng-nash-2022/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/deng-nash-2022/</guid>
+      <description>&lt;p&gt;The convergence properties of learning dynamics in repeated auctions is a timely and important question, with numerous applications in, e.g., online advertising markets.&lt;/p&gt;
+&lt;p&gt;This work focuses on repeated first-price auctions where bidders with fixed values learn to bid using mean-based algorithms &amp;mdash; a large class of online learning algorithms that include popular no-regret algorithms such as Multiplicative Weights Update and Follow the Perturbed Leader. We completely characterize the learning dynamics of mean-based algorithms, under two notions of convergence: &lt;strong&gt;(1) time-average:&lt;/strong&gt; the fraction of rounds where bidders play a Nash equilibrium converges to 1; &lt;strong&gt;(2) last-iterate:&lt;/strong&gt; the mixed strategy profile of bidders converges to a Nash equilibrium. Specifically, the results depend on the number of bidders with the highest value:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If the number is at least three, the dynamics almost surely converges to a Nash equilibrium of the auction, in both time-average and last-iterate.&lt;/li&gt;
+&lt;li&gt;If the number is two, the dynamics almost surely converges to a Nash equilibrium in time-average but not necessarily last-iterate.&lt;/li&gt;
+&lt;li&gt;If the number is one, the dynamics may not converge to a Nash equilibrium in time-average or last-iterate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our discovery opens up new possibilities in the study of the convergence of learning dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
