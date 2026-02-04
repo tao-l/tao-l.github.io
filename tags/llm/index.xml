@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM | </title>
+    <link>https://tao-l.github.io/tags/llm/</link>
+      <atom:link href="https://tao-l.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>LLM</title>
+      <link>https://tao-l.github.io/tags/llm/</link>
+    </image>
+    
+    <item>
+      <title>Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective</title>
+      <link>https://tao-l.github.io/working_papers/wang-reward-2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/wang-reward-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design with Large Language Models: An Annotated Reading List</title>
+      <link>https://tao-l.github.io/pub_journal/lin-llm-info-reading-list-2026/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/lin-llm-info-reading-list-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -34,6 +34,38 @@
     </item>
     
     <item>
+      <title>Learning a Game by Paying the Agents</title>
+      <link>https://tao-l.github.io/pub_conference/zhang-learning-2026/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/zhang-learning-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
+      <link>https://tao-l.github.io/pub_conference/personnat-learning-2026/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/personnat-learning-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective</title>
+      <link>https://tao-l.github.io/working_papers/wang-reward-2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/wang-reward-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design with Large Language Models: An Annotated Reading List</title>
+      <link>https://tao-l.github.io/pub_journal/lin-llm-info-reading-list-2026/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/lin-llm-info-reading-list-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Non-Bayesian Information Design: Learning and LLM-Based Approaches</title>
       <link>https://tao-l.github.io/talks/2026-shanghai/</link>
       <pubDate>Wed, 07 Jan 2026 11:00:00 +0000</pubDate>
@@ -47,6 +79,15 @@
       <pubDate>Sun, 04 Jan 2026 11:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/talks/2026-poms-hk/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
+      <link>https://tao-l.github.io/pub_journal/lin-generalized-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/lin-generalized-2026/</guid>
+      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,29 +130,12 @@
     </item>
     
     <item>
-      <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://tao-l.github.io/pub_journal/lin-generalized-2025/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_journal/lin-generalized-2025/</guid>
-      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Information Design With Large Language Models</title>
       <link>https://tao-l.github.io/working_papers/info-llm-2025/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/working_papers/info-llm-2025/</guid>
       <description>&lt;p&gt;Information design is typically studied through the lens of Bayesian signaling, where signals shape beliefs based on their correlation with the true state of the world. However, Behavioral Economics and Psychology emphasize that human decision-making is more complex and can depend on how information is framed. This paper formalizes a language-based notion of framing and bridges this to the popular Bayesian-persuasion model. We model framing as a possibly non-Bayesian, linguistic way to influence a receiver&amp;rsquo;s belief, while a signaling (or recommendation) scheme can further refine this belief in the classic Bayesian way. A key challenge in systematically optimizing in this framework is the vast space of possible framings and the difficulty of predicting their effects on receivers. Based on growing evidence that Large Language Models (LLMs) can effectively serve as proxies for human behavior, we formulate a theoretical model based on access to a framing-to-belief oracle. This model then enables us to precisely characterize when solely optimizing framing or jointly optimizing framing and signaling is tractable. We substantiate our theoretical analysis with an empirical algorithm that leverages LLMs to (1) approximate the framing-to-belief oracle, and (2) optimize over language space using a hill-climbing method. We apply this to two marketing-inspired case studies and validate the effectiveness through analytical and human evaluation.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
-      <link>https://tao-l.github.io/working_papers/personnat-learning-2025/</link>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/working_papers/personnat-learning-2025/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -143,7 +167,7 @@
       <link>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/pub_journal/deng-monopoly-2025/</guid>
-      <description>&lt;p&gt;Full journal version of our AAAI 2023 paper &lt;a href=&#34;https://tao-l.github.io/publication/deng-monopoly-2023&#34;&gt;&amp;ldquo;From Monopoly to Competition: Optimal Contests Prevail&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is the journal version of our AAAI 2023 paper &lt;a href=&#34;https://tao-l.github.io/publication/deng-monopoly-2023&#34;&gt;&amp;ldquo;From Monopoly to Competition: Optimal Contests Prevail&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -158,14 +182,6 @@ We study repeated generalized principal-agent problems under the assumption that
 But (3) if the agent uses mean-based learning algorithms (which can be no-regret but not no-swap-regret), then the principal can sometimes do significantly better than $U^*$.
 These results not only refine previous results in Stackelberg games and contract design, but also lead to new results for Bayesian persuasion with a learning agent and all generalized principal-agent problems where the agent does not have private information.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Learning a Game by Paying the Agents</title>
-      <link>https://tao-l.github.io/working_papers/zhang-learning-2025/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/working_papers/zhang-learning-2025/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -495,7 +511,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-539264817&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-413572698&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -513,7 +529,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-539264817&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-413572698&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
