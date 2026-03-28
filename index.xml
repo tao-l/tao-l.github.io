@@ -50,6 +50,14 @@
     </item>
     
     <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-beach/</link>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-beach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective</title>
       <link>https://tao-l.github.io/working_papers/wang-reward-2026/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
@@ -511,7 +519,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-358942716&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-175239486&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -529,7 +537,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-358942716&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-175239486&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
