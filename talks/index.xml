@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/talks/</link>
       <atom:link href="https://tao-l.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jan 2026 11:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://tao-l.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-beach/</link>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-beach/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-Bayesian Information Design: Learning and LLM-Based Approaches</title>
