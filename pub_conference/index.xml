@@ -5,7 +5,7 @@
     <link>https://tao-l.github.io/pub_conference/</link>
       <atom:link href="https://tao-l.github.io/pub_conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Conference Publications</title>
@@ -13,34 +13,50 @@
     </image>
     
     <item>
+      <title>On the Coordination of Value-Maximizing Bidders</title>
+      <link>https://tao-l.github.io/pub_conference/2026-coordination/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/2026-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective</title>
+      <link>https://tao-l.github.io/pub_conference/2026-reward-shaping/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/2026-reward-shaping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning a Game by Paying the Agents</title>
-      <link>https://tao-l.github.io/pub_conference/zhang-learning-2026/</link>
+      <link>https://tao-l.github.io/pub_conference/2026-payment/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/zhang-learning-2026/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2026-payment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
-      <link>https://tao-l.github.io/pub_conference/personnat-learning-2026/</link>
+      <link>https://tao-l.github.io/pub_conference/2026-multi-follower/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/personnat-learning-2026/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2026-multi-follower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Approach to Submodular Maximization Under Noise</title>
-      <link>https://tao-l.github.io/pub_conference/submodular-2025/</link>
+      <link>https://tao-l.github.io/pub_conference/2025-submodular/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/submodular-2025/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2025-submodular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://tao-l.github.io/pub_conference/lin-generalized-2025/</link>
+      <link>https://tao-l.github.io/pub_conference/2025-generalized/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-generalized-2025/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2025-generalized/</guid>
       <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
 We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
 (2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.
@@ -51,66 +67,66 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>Information Design with Unknown Prior</title>
-      <link>https://tao-l.github.io/pub_conference/lin-information-2025/</link>
+      <link>https://tao-l.github.io/pub_conference/2025-unknown-prior/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-information-2025/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2025-unknown-prior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
-      <link>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</link>
+      <link>https://tao-l.github.io/pub_conference/2024-user-creator/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2024-user-creator/</guid>
       <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bias Detection via Signaling</title>
-      <link>https://tao-l.github.io/pub_conference/chen-bias-2024/</link>
+      <link>https://tao-l.github.io/pub_conference/2024-bias-detection/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/chen-bias-2024/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2024-bias-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Sender Persuasion: A Computational Perspective</title>
-      <link>https://tao-l.github.io/pub_conference/hossain-multi-sender-2024/</link>
+      <link>https://tao-l.github.io/pub_conference/2024-multi-sender/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/hossain-multi-sender-2024/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2024-multi-sender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Thresholds with Latent Values and Censored Feedback</title>
-      <link>https://tao-l.github.io/pub_conference/zhang-learning-2024/</link>
+      <link>https://tao-l.github.io/pub_conference/2024-learning-thresholds/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/zhang-learning-2024/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2024-learning-thresholds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>https://tao-l.github.io/pub_conference/lin-sample-2023/</link>
+      <link>https://tao-l.github.io/pub_conference/2023-sample-aggregation/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-sample-2023/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2023-sample-aggregation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Monopoly to Competition: Optimal Contests Prevail</title>
-      <link>https://tao-l.github.io/pub_conference/deng-monopoly-2023/</link>
+      <link>https://tao-l.github.io/pub_conference/2023-monopoly/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-monopoly-2023/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2023-monopoly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nash Convergence of Mean-Based Learning Algorithms in First Price Auctions</title>
-      <link>https://tao-l.github.io/pub_conference/deng-nash-2022/</link>
+      <link>https://tao-l.github.io/pub_conference/2022-nash-convergence/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-nash-2022/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2022-nash-convergence/</guid>
       <description>&lt;p&gt;The convergence properties of learning dynamics in repeated auctions is a timely and important question, with numerous applications in, e.g., online advertising markets.&lt;/p&gt;
 &lt;p&gt;This work focuses on repeated first-price auctions where bidders with fixed values learn to bid using mean-based algorithms &amp;mdash; a large class of online learning algorithms that include popular no-regret algorithms such as Multiplicative Weights Update and Follow the Perturbed Leader. We completely characterize the learning dynamics of mean-based algorithms, under two notions of convergence: &lt;strong&gt;(1) time-average:&lt;/strong&gt; the fraction of rounds where bidders play a Nash equilibrium converges to 1; &lt;strong&gt;(2) last-iterate:&lt;/strong&gt; the mixed strategy profile of bidders converges to a Nash equilibrium. Specifically, the results depend on the number of bidders with the highest value:&lt;/p&gt;
 &lt;ul&gt;
@@ -124,33 +140,33 @@ These results not only refine previous results in Stackelberg games and contract
     
     <item>
       <title>How Many Representatives Do We Need? The Optimal Size of a Congress Voting on Binary Issues</title>
-      <link>https://tao-l.github.io/pub_conference/revel-how-2022/</link>
+      <link>https://tao-l.github.io/pub_conference/2022-how-many/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/revel-how-2022/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2022-how-many/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
-      <link>https://tao-l.github.io/pub_conference/fu-learning-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-learning-utility/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/fu-learning-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-learning-utility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
-      <link>https://tao-l.github.io/pub_conference/deng-game-theoretic-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-game-theoretic/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-game-theoretic-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-game-theoretic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>https://tao-l.github.io/pub_conference/deng-private-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-private-data/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-private-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-private-data/</guid>
       <description></description>
     </item>
     

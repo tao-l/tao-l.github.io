@@ -22,33 +22,41 @@
     
     <item>
       <title>Sample Complexity of Forecast Aggregation</title>
-      <link>https://tao-l.github.io/pub_conference/lin-sample-2023/</link>
+      <link>https://tao-l.github.io/pub_conference/2023-sample-aggregation/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-sample-2023/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2023-sample-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Data Manipulation in Sponsored Search Auctions</title>
+      <link>https://tao-l.github.io/pub_journal/2023-private-data/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_journal/2023-private-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Utilities and Equilibria in Non-Truthful Auctions</title>
-      <link>https://tao-l.github.io/pub_conference/fu-learning-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-learning-utility/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/fu-learning-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-learning-utility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling</title>
-      <link>https://tao-l.github.io/pub_conference/deng-game-theoretic-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-game-theoretic/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-game-theoretic-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-game-theoretic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Data Manipulation in Optimal Sponsored Search Auction</title>
-      <link>https://tao-l.github.io/pub_conference/deng-private-2020/</link>
+      <link>https://tao-l.github.io/pub_conference/2020-private-data/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/deng-private-2020/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2020-private-data/</guid>
       <description></description>
     </item>
     
