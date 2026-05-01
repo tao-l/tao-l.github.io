@@ -14,26 +14,26 @@
     
     <item>
       <title>Learning to Play Multi-Follower Bayesian Stackelberg Games</title>
-      <link>https://tao-l.github.io/pub_conference/personnat-learning-2026/</link>
+      <link>https://tao-l.github.io/pub_conference/2026-multi-follower/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/personnat-learning-2026/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2026-multi-follower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://tao-l.github.io/pub_journal/lin-generalized-2026/</link>
+      <link>https://tao-l.github.io/pub_journal/2026-generalized/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_journal/lin-generalized-2026/</guid>
+      <guid>https://tao-l.github.io/pub_journal/2026-generalized/</guid>
       <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
-      <link>https://tao-l.github.io/pub_conference/lin-generalized-2025/</link>
+      <link>https://tao-l.github.io/pub_conference/2025-generalized/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-generalized-2025/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2025-generalized/</guid>
       <description>&lt;p&gt;Classic principal-agent problems such as Stackelberg games, contract design, and Bayesian persuasion, often assume that the agent is able to best respond to the principal&amp;rsquo;s committed strategy.
 We study repeated generalized principal-agent problems under the assumption that the principal does not have commitment power and the agent uses algorithms to learn to respond to the principal. We reduce this problem to a one-shot generalized principal-agent problem where the agent approximately best responds. Using this reduction, we show that: (1) If the agent uses contextual no-regret learning algorithms with regret $\mathrm{Reg}(T)$, then the principal can guarantee utility at least $U^* - \Theta\big(\sqrt{\tfrac{\mathrm{Reg}(T)}{T}}\big)$, where $U^*$ is the principal&amp;rsquo;s optimal utility in the classic model with a best-responding agent.
 (2) If the agent uses contextual no-swap-regret learning algorithms with swap-regret $\mathrm{SReg}(T)$, then the principal cannot obtain utility more than $U^* + O(\frac{\mathrm{SReg(T)}}{T})$.

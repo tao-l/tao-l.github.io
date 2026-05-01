@@ -14,9 +14,9 @@
     
     <item>
       <title>User-Creator Feature Polarization in Recommender Systems with Dual Influence</title>
-      <link>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</link>
+      <link>https://tao-l.github.io/pub_conference/2024-user-creator/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tao-l.github.io/pub_conference/lin-user-creator-2024/</guid>
+      <guid>https://tao-l.github.io/pub_conference/2024-user-creator/</guid>
       <description>&lt;p&gt;Recommender systems serve the dual purpose of presenting relevant content to users and helping content creators reach their target audience. The dual nature of these systems naturally influences both users and creators: users&amp;rsquo; preferences are affected by the items they are recommended, while creators may be incentivized to alter their content to attract more users. We define a model, called user-creator feature dynamics, to capture the dual influence of recommender systems. We prove that a recommender system with dual influence is guaranteed to polarize, causing diversity loss in the system. We then investigate, both theoretically and empirically, approaches for mitigating polarization and promoting diversity in recommender systems. Unexpectedly, we find that common diversity-promoting approaches do not work in the presence of dual influence, while relevancy-optimizing methods like top-$k$ truncation can prevent polarization and improve diversity of the system.&lt;/p&gt;
 </description>
     </item>
