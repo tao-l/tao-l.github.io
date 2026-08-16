@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/publication_types/manuscript/</link>
       <atom:link href="https://tao-l.github.io/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Manuscript</title>
       <link>https://tao-l.github.io/publication_types/manuscript/</link>
     </image>
+    
+    <item>
+      <title>Incentive Design in the Machine Learning Age</title>
+      <link>https://tao-l.github.io/notes/dissertation/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/notes/dissertation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Does Independence Help Generalization? Sample Complexity of ERM on Product Distributions</title>

@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-ccf-ce/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-ccf-ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explainable Information Design</title>
       <link>https://tao-l.github.io/pub_conference/2026-exp-info/</link>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
@@ -71,6 +79,30 @@
       <link>https://tao-l.github.io/pub_conference/2026-reward-shaping/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/pub_conference/2026-reward-shaping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward Shaping for (Inference-Time) Alignment</title>
+      <link>https://tao-l.github.io/talks/2026-uchicago/</link>
+      <pubDate>Thu, 11 Jun 2026 11:00:00 -0500</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-uchicago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Information Design</title>
+      <link>https://tao-l.github.io/talks/2026-northwestern/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-northwestern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-cmu/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-cmu/</guid>
       <description></description>
     </item>
     
@@ -187,6 +219,14 @@
     </item>
     
     <item>
+      <title>Incentive Design in the Machine Learning Age</title>
+      <link>https://tao-l.github.io/notes/dissertation/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/notes/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
       <link>https://tao-l.github.io/pub_conference/2025-generalized/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
@@ -243,7 +283,7 @@ These results not only refine previous results in Stackelberg games and contract
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
       <link>https://tao-l.github.io/talks/2024-esif/</link>
-      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/talks/2024-esif/</guid>
       <description></description>
     </item>
@@ -526,7 +566,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-297483516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-179643582&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -544,7 +584,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-297483516&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-179643582&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1337,6 +1377,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://tao-l.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/people/</guid>
+      <description></description>
     </item>
     
     <item>
