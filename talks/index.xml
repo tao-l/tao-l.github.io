@@ -5,12 +5,44 @@
     <link>https://tao-l.github.io/talks/</link>
       <atom:link href="https://tao-l.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://tao-l.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-ccf-ce/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-ccf-ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward Shaping for (Inference-Time) Alignment</title>
+      <link>https://tao-l.github.io/talks/2026-uchicago/</link>
+      <pubDate>Thu, 11 Jun 2026 11:00:00 -0500</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-uchicago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Information Design</title>
+      <link>https://tao-l.github.io/talks/2026-northwestern/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-northwestern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Design with Large Language Models</title>
+      <link>https://tao-l.github.io/talks/2026-cmu/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/talks/2026-cmu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Information Design with Large Language Models</title>
@@ -63,7 +95,7 @@
     <item>
       <title>Generalized Principal-Agent Problem with a Learning Agent</title>
       <link>https://tao-l.github.io/talks/2024-esif/</link>
-      <pubDate>Thu, 10 Oct 2024 13:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/talks/2024-esif/</guid>
       <description></description>
     </item>
