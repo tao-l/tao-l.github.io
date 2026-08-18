@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective</title>
+      <title>Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective</title>
       <link>https://tao-l.github.io/pub_conference/2026-reward-shaping/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/pub_conference/2026-reward-shaping/</guid>
@@ -159,7 +159,7 @@
       <link>https://tao-l.github.io/pub_journal/2026-generalized/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://tao-l.github.io/pub_journal/2026-generalized/</guid>
-      <description>&lt;p&gt;Please see the &lt;a href=&#34;https://tao-l.github.io/publication/lin-generalized-2025&#34;&gt;conference version&lt;/a&gt; of this work for details.&lt;/p&gt;
+      <description>&lt;p&gt;This is the journal version of my &lt;a href=&#34;https://tao-l.github.io/pub_conference/2025-generalized/&#34;&gt;ICLR 2025 paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -566,7 +566,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-179643582&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-792651384&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -584,7 +584,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-179643582&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-792651384&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
