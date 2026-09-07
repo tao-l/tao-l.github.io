@@ -34,6 +34,151 @@
     </item>
     
     <item>
+      <title>CSC 6011: Theory of Computation</title>
+      <link>https://tao-l.github.io/courses/csc6011-fall-2026/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/courses/csc6011-fall-2026/</guid>
+      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course overview&lt;/h2&gt;
+&lt;p&gt;What are the fundamental capabilities and limitations of computers? This course introduces the foundations of computability and computational complexity, and how to classify computational problems by the resources needed to solve them.&lt;/p&gt;
+&lt;p&gt;We begin with automata and formal languages, then study Turing machines, decidability, and reductions. Complexity topics include P versus NP, NP-completeness, time and space complexity, randomized computation, interactive proofs, and hardness of approximation. The course also covers communication complexity and connections between Transformers and EXPSPACE-completeness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; No formal prerequisites. Students should be comfortable with mathematical reasoning, proofs, and basic discrete mathematics.&lt;/p&gt;
+&lt;h2 id=&#34;class-information&#34;&gt;Class information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Monday and Wednesday, 4:00–5:20 PM, Teaching A, Room 107.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://tao-l.github.io/&#34;&gt;Tao Lin (林涛)&lt;/a&gt;, &lt;a href=&#34;mailto:lintao@cuhk.edu.cn&#34;&gt;lintao@cuhk.edu.cn&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching assistant:&lt;/strong&gt; Xingyu Wang (王星宇), &lt;a href=&#34;mailto:225040497@link.cuhk.edu.cn&#34;&gt;225040497@link.cuhk.edu.cn&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor office hour (tentative):&lt;/strong&gt; Thursday, 5:00–6:00 PM, Daoyuan Building (道远楼), Room 420c.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TA office hours (tentative):&lt;/strong&gt; Wednesday, 7:00–9:00 PM, Zhixin Building (知新楼), Room 247.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syllabus-and-slides&#34;&gt;Syllabus and slides&lt;/h2&gt;
+&lt;p&gt;The indicative teaching plan below follows the &lt;a href=&#34;syllabus.pdf&#34;&gt;course syllabus&lt;/a&gt; (version 2, September 7, 2026). The schedule is subject to adjustment. Further slides will be added as they become available.&lt;/p&gt;
+&lt;div class=&#34;course-table-scroll&#34; role=&#34;region&#34; aria-label=&#34;Weekly syllabus and lecture slides&#34; tabindex=&#34;0&#34;&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Week&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Topics&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Slides&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Introduction. Finite automata (DFA and NFA). Regular languages.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-01.pdf&#34; title=&#34;Introduction, Finite Automata, Regular Language&#34;&gt;Lecture 1 (PDF)&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nonregular languages, pumping lemma.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Context-free languages, pushdown automata.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Turing machines, the Church–Turing thesis.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reduction. Time complexity.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;P and NP, NP-completeness.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cook–Levin theorem. &lt;strong&gt;Midterm exam.&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Space complexity, PSPACE, L, NL, Savitch’s theorem.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[ICLR’26 paper]: Transformers &amp;amp; EXPSPACE-completeness.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Randomized computation, RP, BPP.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Interactive proofs, IP = PSPACE.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Approximation algorithms, hardness of approximation, PCP theorem.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Communication complexity.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning outcomes&lt;/h2&gt;
+&lt;p&gt;By the end of the course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formalize problems using standard models of computation, analyze their capabilities and limitations, and prove results about decidability, reducibility, and complexity.&lt;/li&gt;
+&lt;li&gt;Classify problems into major complexity classes and construct rigorous reductions and impossibility arguments.&lt;/li&gt;
+&lt;li&gt;Apply theoretical computer science concepts to the analysis of algorithms and data science problems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;assessment&#34;&gt;Assessment&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Component&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Weight&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Homework&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Midterm exam&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Final exam&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;40%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Exams:&lt;/strong&gt; The midterm and final are open-book. Text materials are allowed; digital devices and AI tools are not. Students must complete exams independently.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Homework and AI:&lt;/strong&gt; AI tools may be used, but students must write their own solutions and explain how they used AI. Direct submission of AI output is not allowed.&lt;/p&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;There is no required textbook. Recommended references are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Michael Sipser, &lt;em&gt;Introduction to the Theory of Computation&lt;/em&gt;, 3rd edition. Cengage Learning.&lt;/li&gt;
+&lt;li&gt;John Hopcroft, Rajeev Motwani, and Jeffrey Ullman, &lt;em&gt;Introduction to Automata Theory, Languages, and Computation&lt;/em&gt;. Pearson.&lt;/li&gt;
+&lt;li&gt;Sanjeev Arora and Boaz Barak, &lt;em&gt;Computational Complexity: A Modern Approach&lt;/em&gt;. Cambridge University Press.&lt;/li&gt;
+&lt;li&gt;Eyal Kushilevitz and Noam Nisan, &lt;em&gt;Communication Complexity&lt;/em&gt;. Cambridge University Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Information Design with Large Language Models</title>
       <link>https://tao-l.github.io/talks/2026-ccf-ce/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
@@ -566,7 +711,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-792651384&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-512389467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -584,7 +729,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-792651384&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-512389467&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
