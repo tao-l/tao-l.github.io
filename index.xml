@@ -65,7 +65,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Introduction. Finite automata (DFA and NFA). Regular languages.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-01.pdf&#34; title=&#34;Introduction, Finite Automata, Regular Language&#34;&gt;Lecture 1 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-01.pdf&#34; title=&#34;Introduction, Finite Automata, Regular Language&#34;&gt;Lecture 1 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-02.pdf&#34; title=&#34;Nondeterministic Finite Automata&#34;&gt;Lecture 2 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
@@ -711,7 +711,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-512389467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851347269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -729,7 +729,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-512389467&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-851347269&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
