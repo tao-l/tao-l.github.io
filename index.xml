@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Does AI Help or Harm? Endogenous Information Acquisition with AI Advice</title>
+      <link>https://tao-l.github.io/pub_conference/2026-ai-advice/</link>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/2026-ai-advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CSC 6011: Theory of Computation</title>
       <link>https://tao-l.github.io/courses/csc6011-fall-2026/</link>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
@@ -45,18 +53,26 @@
 &lt;h2 id=&#34;class-information&#34;&gt;Class information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Monday and Wednesday, 4:00–5:20 PM, Teaching A, Room 107.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://tao-l.github.io/&#34;&gt;Tao Lin (林涛)&lt;/a&gt;, &lt;a href=&#34;mailto:lintao@cuhk.edu.cn&#34;&gt;lintao@cuhk.edu.cn&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Teaching assistant:&lt;/strong&gt; Xingyu Wang (王星宇), &lt;a href=&#34;mailto:225040497@link.cuhk.edu.cn&#34;&gt;225040497@link.cuhk.edu.cn&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Instructor office hour (tentative):&lt;/strong&gt; Thursday, 5:00–6:00 PM, Daoyuan Building (道远楼), Room 420c.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TA office hours (tentative):&lt;/strong&gt; Wednesday, 7:00–9:00 PM, Zhixin Building (知新楼), Room 247.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://tao-l.github.io/&#34;&gt;Tao Lin (林涛)&lt;/a&gt;, &lt;a href=&#34;mailto:lintao@cuhk.edu.cn&#34;&gt;lintao@cuhk.edu.cn&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Office hour:&lt;/strong&gt; Thursday, 5:00–6:00 PM, Daoyuan Building (道远楼), Room 420c.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching assistant:&lt;/strong&gt; Yefan Gao (高叶繁), &lt;a href=&#34;mailto:226040008@link.cuhk.edu.cn&#34;&gt;226040008@link.cuhk.edu.cn&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Office hour:&lt;/strong&gt; Friday, 10:00–11:00 AM, Zhixin Building (知新楼), Room 410.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;syllabus-and-slides&#34;&gt;Syllabus and slides&lt;/h2&gt;
-&lt;p&gt;The indicative teaching plan below follows the &lt;a href=&#34;syllabus.pdf&#34;&gt;course syllabus&lt;/a&gt; (version 2, September 7, 2026). The schedule is subject to adjustment. Further slides will be added as they become available.&lt;/p&gt;
+&lt;p&gt;The dated teaching plan below follows the updated &lt;a href=&#34;syllabus.pdf&#34;&gt;course syllabus&lt;/a&gt;. All dates are in 2026. The schedule is subject to adjustment. Further slides will be added as they become available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Midterm update:&lt;/strong&gt; The midterm is scheduled for &lt;strong&gt;November 9, 2026 (Week 9)&lt;/strong&gt;.&lt;/p&gt;
 &lt;div class=&#34;course-table-scroll&#34; role=&#34;region&#34; aria-label=&#34;Weekly syllabus and lecture slides&#34; tabindex=&#34;0&#34;&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Week&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Dates&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Topics&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Slides&lt;/th&gt;
       &lt;/tr&gt;
@@ -64,71 +80,91 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 7, 9&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Introduction. Finite automata (DFA and NFA). Regular languages.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-01.pdf&#34; title=&#34;Introduction, Finite Automata, Regular Language&#34;&gt;Lecture 1 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-02.pdf&#34; title=&#34;Nondeterministic Finite Automata&#34;&gt;Lecture 2 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Nonregular languages, pumping lemma.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 14, 16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nonregular languages, pumping lemma. Context-free languages, pushdown automata.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-03.pdf&#34; title=&#34;Finite Automata to Regular Expressions, Pumping Lemma, Non-Regular Languages&#34;&gt;Lecture 3 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Context-free languages, pushdown automata.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 21, 23&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Turing machines, the Church–Turing thesis.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 28, 29&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization. Reduction.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 5, 7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;span class=&#34;course-holiday&#34;&gt;National Day holiday — no classes.&lt;/span&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 12, 14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Time complexity.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Reduction. Time complexity.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 19, 21&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;P and NP, NP-completeness.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Cook–Levin theorem. &lt;strong&gt;Midterm exam.&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 26, 28&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cook–Levin theorem.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 2, 4&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Space complexity, PSPACE, L, NL, Savitch’s theorem.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 9, 11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Midterm exam: Nov 9.&lt;/strong&gt; More on space complexity.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;[ICLR’26 paper]: Transformers &amp;amp; EXPSPACE-completeness.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 16, 18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[ICLR’26 paper “Transformers are Inherently Succinct”] &amp;amp; EXPSPACE-completeness.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 23, 25&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Randomized computation, RP, BPP.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 30, Dec 2&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Interactive proofs, IP = PSPACE.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dec 7, 9&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Approximation algorithms, hardness of approximation, PCP theorem.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dec 14, 16&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Communication complexity.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
@@ -156,7 +192,7 @@
           &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Midterm exam&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Midterm exam (Nov 9, Week 9)&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -711,7 +747,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-851347269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-738652149&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -729,7 +765,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-851347269&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-738652149&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
