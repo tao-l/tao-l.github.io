@@ -5,12 +5,20 @@
     <link>https://tao-l.github.io/publication_types/paper-conference/</link>
       <atom:link href="https://tao-l.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Paper-Conference</title>
       <link>https://tao-l.github.io/publication_types/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Does AI Help or Harm? Endogenous Information Acquisition with AI Advice</title>
+      <link>https://tao-l.github.io/pub_conference/2026-ai-advice/</link>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/pub_conference/2026-ai-advice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Coordination of Value-Maximizing Bidders</title>
