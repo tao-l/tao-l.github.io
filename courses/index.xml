@@ -59,7 +59,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Sep 14, 16&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nonregular languages, pumping lemma. Context-free languages, pushdown automata.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-03.pdf&#34; title=&#34;Finite Automata to Regular Expressions, Pumping Lemma, Non-Regular Languages&#34;&gt;Lecture 3 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-03.pdf&#34; title=&#34;Finite Automata to Regular Expressions, Pumping Lemma, Non-Regular Languages&#34;&gt;Lecture 3 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-04.pdf&#34; title=&#34;Context Free Grammar, Pushdown Automata&#34;&gt;Lecture 4 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
@@ -112,7 +112,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 16, 18&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;[ICLR’26 paper “Transformers are Inherently Succinct”] &amp;amp; EXPSPACE-completeness.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Formal language and modern AI models:&lt;br /&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.19315&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ICLR’26 oustanding paper “Transformers are Inherently Succinct”]&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
