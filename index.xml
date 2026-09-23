@@ -93,8 +93,8 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Sep 21, 23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Turing machines, the Church–Turing thesis.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-05.pdf&#34; title=&#34;CF Pumping Lemma, Turing Machines&#34;&gt;Lecture 5 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Turing machines, Church–Turing thesis.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-05.pdf&#34; title=&#34;CF Pumping Lemma, Turing Machines&#34;&gt;Lecture 5 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-06.pdf&#34; title=&#34;TM Variants, the Church-Turing Thesis&#34;&gt;Lecture 6 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
@@ -747,7 +747,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-521763894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-538427961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -765,7 +765,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-521763894&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-538427961&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
