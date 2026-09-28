@@ -100,7 +100,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Sep 28, 29&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization. Reduction.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-07.pdf&#34; title=&#34;Decision Problems for Automata and Grammars&#34;&gt;Lecture 7 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
@@ -747,7 +747,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-538427961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-423865197&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -765,7 +765,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-538427961&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-423865197&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
