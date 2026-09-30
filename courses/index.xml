@@ -69,9 +69,9 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Sep 28, 29&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization. Reduction.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-07.pdf&#34; title=&#34;Decision Problems for Automata and Grammars&#34;&gt;Lecture 7 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 28, 30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Decidability, diagonalization.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-07.pdf&#34; title=&#34;Decision Problems for Automata and Grammars&#34;&gt;Lecture 7 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-08.pdf&#34; title=&#34;Undecidability&#34;&gt;Lecture 8 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
@@ -82,7 +82,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Oct 12, 14&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Time complexity.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reduction. Time complexity.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
