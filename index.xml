@@ -118,7 +118,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Oct 19, 21&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;P and NP, NP-completeness.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-11.pdf&#34; title=&#34;P and NP, SAT&#34;&gt;Lecture 11 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-11.pdf&#34; title=&#34;P and NP, SAT&#34;&gt;Lecture 11 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-12.pdf&#34; title=&#34;NP-Completeness&#34;&gt;Lecture 12 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
@@ -747,7 +747,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-693245781&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-294736518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -765,7 +765,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-693245781&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-294736518&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
