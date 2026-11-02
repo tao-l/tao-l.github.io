@@ -112,7 +112,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 16, 18&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Formal language and modern AI models:&lt;br /&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.19315&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ICLR’26 oustanding paper “Transformers are Inherently Succinct”]&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Formal language and modern AI models:&lt;br /&gt;Example papers:&lt;br /&gt;&lt;a href=&#34;https://jmlr.org/papers/v22/20-302.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[JMLR’22, Attention is Turing-Complete]&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2025/file/59d501de2e283999feb3bbca259ca4d1-Paper-Conference.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[NeurIPS’25, Constant Bit-Size Transformers are Turing Complete]&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.19315&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ICLR’26, Transformers are Inherently Succinct]&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
