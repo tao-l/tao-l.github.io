@@ -130,12 +130,12 @@
           &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 2, 4&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Space complexity, PSPACE, Savitch’s theorem.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-15.pdf&#34; title=&#34;Space Complexity, PSPACE&#34;&gt;Lecture 15 (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-15.pdf&#34; title=&#34;Space Complexity, PSPACE&#34;&gt;Lecture 15 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-16.pdf&#34; title=&#34;Savitch&amp;#39;s Theorem, PSPACE-Completeness&#34;&gt;Lecture 16 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 9, 11&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Midterm exam: Nov 9.&lt;/strong&gt; L, NL.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Midterm exam (Nov 9).&lt;/strong&gt; L, NL.&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -192,7 +192,7 @@
           &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Midterm exam (Nov 9, Week 9)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Midterm exam&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -201,7 +201,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Exams:&lt;/strong&gt; The midterm and final are open-book. Text materials are allowed; digital devices and AI tools are not. Students must complete exams independently.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exams:&lt;/strong&gt; The midterm and final are open-book. Paper materials are allowed; digital devices are not allowed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Homework and AI:&lt;/strong&gt; AI tools may be used, but students must write their own solutions and explain how they used AI. Direct submission of AI output is not allowed.&lt;/p&gt;
 &lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
 &lt;p&gt;There is no required textbook. Recommended references are:&lt;/p&gt;
@@ -747,7 +747,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-826547193&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-814675392&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -765,7 +765,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-826547193&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-814675392&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
