@@ -42,6 +42,14 @@
     </item>
     
     <item>
+      <title>Learning to Design Information</title>
+      <link>https://tao-l.github.io/working_papers/li-learning-2026/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/working_papers/li-learning-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CSC 6011: Theory of Computation</title>
       <link>https://tao-l.github.io/courses/csc6011-fall-2026/</link>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
@@ -747,7 +755,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-814675392&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-564189327&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -765,7 +773,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-814675392&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-564189327&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
