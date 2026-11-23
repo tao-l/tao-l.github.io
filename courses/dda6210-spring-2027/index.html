@@ -1,0 +1,1500 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: November 23, 2026 --><html lang="en-us" dir="ltr"
+      data-wc-theme-default="light">
+  
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Tao Lin" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Spring 2027 at CUHK-Shenzhen: course overview, weekly syllabus, and lecture slides for DDA 6210." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://tao-l.github.io/courses/dda6210-spring-2027/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/blue.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+    
+    <link href="/css/custom.min.065f5a3a01f544849e9cb6505dce600bcfe016664cf383abb818e63be91a6d6b.css" rel="stylesheet" />
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
+
+  <link rel="canonical" href="https://tao-l.github.io/courses/dda6210-spring-2027/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@GetResearchDev" />
+    <meta property="twitter:creator" content="@GetResearchDev" />
+  
+  <meta property="og:site_name" content="" />
+  <meta property="og:url" content="https://tao-l.github.io/courses/dda6210-spring-2027/" />
+  <meta property="og:title" content="DDA 6210: Algorithmic Game Theory | " />
+  <meta property="og:description" content="Spring 2027 at CUHK-Shenzhen: course overview, weekly syllabus, and lecture slides for DDA 6210." /><meta property="og:image" content="https://tao-l.github.io/media/icon_hu7729264130191091259.png" />
+    <meta property="twitter:image" content="https://tao-l.github.io/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2026-11-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2026-11-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  <title>DDA 6210: Algorithmic Game Theory | </title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link type="text/css" rel="stylesheet" href="/dist/lib/katex/katex.min.505d5f829022bb7b4f24dfee0aa1141cd7bba67afe411d1240335f820960b5c3.css" integrity="sha256-UF1fgpAiu3tPJN/uCqEUHNe7pnr&#43;QR0SQDNfgglgtcM=" />
+  
+  
+  <script defer src="/dist/lib/katex/katex.min.dc84b296ec3e884de093158f760fd9d45b6c7abe58b5381557f4e138f46a58ae.js" integrity="sha256-3ISyluw&#43;iE3gkxWPdg/Z1Ftser5YtTgVV/ThOPRqWK4="></script>
+  
+  
+  
+  
+  <script defer src="/js/katex-renderer.6579ec9683211cfb952064aedf3a3baea5eeb17a061775b32b70917474637c80.js" integrity="sha256-ZXnsloMhHPuVIGSu3zo7rqXusXoGF3WzK3CRdHRjfIA="></script>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
+    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="">
+        Tao Lin
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >About</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#news"
+        >News</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#research"
+        >Research</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/publication_page"
+        >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#talks"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#teaching"
+        >Teaching</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/people"
+        >People</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#prospective_student"
+        >For Prospective Students</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+<article class="course-page">
+  <header class="course-header">
+    <a class="course-home-link" href="/#teaching">← Tao Lin · Teaching</a>
+    <p class="course-term">Spring 2027 · CUHK-Shenzhen · 3 units</p>
+    <h1>DDA 6210: Algorithmic Game Theory</h1>
+    <nav class="course-nav" aria-label="Course navigation">
+      <a href="#syllabus-and-slides">Syllabus &amp; slides</a>
+      <a href="/courses/dda6210-spring-2027/syllabus.pdf">Full syllabus (PDF)</a>
+      <a href="#class-information">Class information</a>
+      <a href="#assessment">Assessment</a>
+    </nav>
+  </header>
+  <div class="course-body">
+    <h2 id="course-overview">Course overview</h2>
+<p>How do we design and analyze systems whose participants act in their own interests? Algorithmic game theory lies at the intersection of theoretical computer science, mathematics, and economics. This course studies strategic behavior, the efficiency of decentralized systems, and mechanisms that are robust to strategic manipulation, with an emphasis on algorithms and computational complexity.</p>
+<p>Topics include the price of anarchy, auctions and contracts, stable matching and fair allocation, learning in games, equilibrium computation and complexity, information elicitation and design, and cooperative game theory.</p>
+<p><strong>Prerequisites:</strong> An advanced undergraduate or graduate course in algorithms or theory of computation, discrete mathematics, and probability.</p>
+<h2 id="class-information">Class information</h2>
+<ul>
+<li><strong>Lectures:</strong> Tuesday and Thursday, 15:30–17:00 (China Standard Time), TB 303.</li>
+<li><strong>Teaching periods:</strong> January 11–24 and February 15–May 14, 2027. The first class is Tuesday, January 12; the last planned class is Thursday, May 13.</li>
+<li><strong>Instructor:</strong> <a href="/">Tao Lin (林涛)</a>, <a href="mailto:lintao@cuhk.edu.cn">lintao@cuhk.edu.cn</a>.
+<ul>
+<li><strong>Office hour:</strong> To be announced.</li>
+</ul>
+</li>
+<li><strong>Teaching assistant and TA office hour:</strong> To be announced.</li>
+</ul>
+<h2 id="syllabus-and-slides">Syllabus and slides</h2>
+<p>The weekly topics follow the <a href="syllabus.pdf">course syllabus</a>, with Tuesday/Thursday dates from the <a href="academic-calendar-2026-27.pdf">2026–27 academic calendar (tentative)</a>. All dates below are in <strong>2027</strong>. Slides will be added as they become available.</p>
+<p><strong>Calendar note:</strong> There are no classes during the Chinese New Year break, January 25–February 14. The university calendar states that 2027 holiday and makeup class arrangements will be updated after the official holiday dates are issued. The schedule below, including May 4 and 6, is therefore tentative and subject to adjustment.</p>
+<p><strong>Quizzes:</strong> Quiz 1 is planned for Week 6 (March 9/11), and Quiz 2 for Week 11 (April 13/15). The exact class date for each quiz will be announced.</p>
+<div class="course-table-scroll" role="region" aria-label="Weekly syllabus and lecture slides" tabindex="0">
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Week</th>
+          <th style="text-align: left">Dates (Tue, Thu)</th>
+          <th style="text-align: left">Topics</th>
+          <th style="text-align: left">Slides</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">Jan 12, 14</td>
+          <td style="text-align: left">Introduction: key concepts in (algorithmic) game theory.<br>Price of anarchy: selfish routing.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2</td>
+          <td style="text-align: left">Jan 19, 21</td>
+          <td style="text-align: left">Mechanism design basics: auctions and incentives.<br>Welfare maximization: VCG auctions.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">—</td>
+          <td style="text-align: left">Jan 25–Feb 14</td>
+          <td style="text-align: left"><span class="course-holiday">Chinese New Year break — no classes.</span></td>
+          <td style="text-align: left">—</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">3</td>
+          <td style="text-align: left">Feb 16, 18</td>
+          <td style="text-align: left">Revenue maximization: Myerson auctions.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">4</td>
+          <td style="text-align: left">Feb 23, 25</td>
+          <td style="text-align: left">Simple versus optimal mechanisms: posted price, prophet inequality.<br>Prior-independent mechanisms: Bulow–Klemperer.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">5</td>
+          <td style="text-align: left">Mar 2, 4</td>
+          <td style="text-align: left">Case studies: sponsored search auctions, spectrum auctions.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">6</td>
+          <td style="text-align: left">Mar 9, 11</td>
+          <td style="text-align: left">Contract design. <strong>Quiz 1 (exact date to be announced).</strong></td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">7</td>
+          <td style="text-align: left">Mar 16, 18</td>
+          <td style="text-align: left">Mechanism design without money: stable matching and fair allocation.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">8</td>
+          <td style="text-align: left">Mar 23, 25</td>
+          <td style="text-align: left">Potential games and best-response dynamics.<br>Equilibrium hierarchy: Nash, correlated, and coarse correlated equilibria.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">9</td>
+          <td style="text-align: left">Mar 30, Apr 1</td>
+          <td style="text-align: left">No-regret dynamics and coarse correlated equilibrium (CCE).<br>Swap-regret dynamics and correlated equilibrium (CE).</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">10</td>
+          <td style="text-align: left">Apr 6, 8</td>
+          <td style="text-align: left">Minimax theorem.<br>Equilibrium computation: Lemke–Howson.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">11</td>
+          <td style="text-align: left">Apr 13, 15</td>
+          <td style="text-align: left">Equilibrium complexity: PLS, PPAD.<br><strong>Quiz 2 (exact date to be announced).</strong></td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">12</td>
+          <td style="text-align: left">Apr 20, 22</td>
+          <td style="text-align: left">Information elicitation: scoring rules.<br>Information design: Bayesian persuasion.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">13</td>
+          <td style="text-align: left">Apr 27, 29</td>
+          <td style="text-align: left">Cooperative game theory: coalitional games, core.<br>Case study: data valuation via Shapley value.</td>
+          <td style="text-align: left">Not yet posted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">14</td>
+          <td style="text-align: left">May 4, 6</td>
+          <td style="text-align: left">Project presentations.</td>
+          <td style="text-align: left">—</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">15</td>
+          <td style="text-align: left">May 11, 13</td>
+          <td style="text-align: left">Project presentations.</td>
+          <td style="text-align: left">—</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<h2 id="learning-outcomes">Learning outcomes</h2>
+<p>By the end of the course, students will be able to:</p>
+<ol>
+<li><strong>Recognize</strong> strategic behavior and incentive issues in real-world applications.</li>
+<li><strong>Propose</strong> a game-theoretic model for a real-world phenomenon.</li>
+<li><strong>Apply</strong> concepts from algorithmic game theory to analyze equilibria, learning dynamics, and the inefficiency arising from players’ strategic behavior in the proposed model.</li>
+<li><strong>Design</strong> a mechanism (such as an auction, a contract, or an information structure) to achieve certain objectives.</li>
+<li><strong>Analyze</strong> and <strong>evaluate</strong> the proposed mechanism using appropriate criteria, such as welfare, revenue, incentive compatibility, and computational complexity.</li>
+</ol>
+<h2 id="assessment">Assessment</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Component</th>
+          <th style="text-align: right">Weight</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Participation</td>
+          <td style="text-align: right">10%</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Homework</td>
+          <td style="text-align: right">20%</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Quiz 1</td>
+          <td style="text-align: right">30%</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Quiz 2</td>
+          <td style="text-align: right">30%</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Presentation</td>
+          <td style="text-align: right">10%</td>
+      </tr>
+  </tbody>
+</table>
+<p>Project presentations are planned for Weeks 14 and 15. Further assessment details will be announced in class.</p>
+<h2 id="reading">Reading</h2>
+<p>Recommended references are:</p>
+<ul>
+<li>Tim Roughgarden, <em>Twenty Lectures on Algorithmic Game Theory</em>. Cambridge University Press, 2016.</li>
+<li>Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani (eds.), <em>Algorithmic Game Theory</em>. Cambridge University Press, 2007.</li>
+</ul>
+
+  </div>
+</article>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2026. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
