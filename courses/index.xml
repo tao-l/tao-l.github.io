@@ -5,12 +5,196 @@
     <link>https://tao-l.github.io/courses/</link>
       <atom:link href="https://tao-l.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tao-l.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Courses</title>
       <link>https://tao-l.github.io/courses/</link>
     </image>
+    
+    <item>
+      <title>DDA 6210: Algorithmic Game Theory</title>
+      <link>https://tao-l.github.io/courses/dda6210-spring-2027/</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://tao-l.github.io/courses/dda6210-spring-2027/</guid>
+      <description>&lt;h2 id=&#34;course-overview&#34;&gt;Course overview&lt;/h2&gt;
+&lt;p&gt;How do we design and analyze systems whose participants act in their own interests? Algorithmic game theory lies at the intersection of theoretical computer science, mathematics, and economics. This course studies strategic behavior, the efficiency of decentralized systems, and mechanisms that are robust to strategic manipulation, with an emphasis on algorithms and computational complexity.&lt;/p&gt;
+&lt;p&gt;Topics include the price of anarchy, auctions and contracts, stable matching and fair allocation, learning in games, equilibrium computation and complexity, information elicitation and design, and cooperative game theory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; An advanced undergraduate or graduate course in algorithms or theory of computation, discrete mathematics, and probability.&lt;/p&gt;
+&lt;h2 id=&#34;class-information&#34;&gt;Class information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Tuesday and Thursday, 15:30–17:00 (China Standard Time), TB 303.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching periods:&lt;/strong&gt; January 11–24 and February 15–May 14, 2027. The first class is Tuesday, January 12; the last planned class is Thursday, May 13.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://tao-l.github.io/&#34;&gt;Tao Lin (林涛)&lt;/a&gt;, &lt;a href=&#34;mailto:lintao@cuhk.edu.cn&#34;&gt;lintao@cuhk.edu.cn&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Office hour:&lt;/strong&gt; To be announced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching assistant and TA office hour:&lt;/strong&gt; To be announced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syllabus-and-slides&#34;&gt;Syllabus and slides&lt;/h2&gt;
+&lt;p&gt;The weekly topics follow the &lt;a href=&#34;syllabus.pdf&#34;&gt;course syllabus&lt;/a&gt;, with Tuesday/Thursday dates from the &lt;a href=&#34;academic-calendar-2026-27.pdf&#34;&gt;2026–27 academic calendar (tentative)&lt;/a&gt;. All dates below are in &lt;strong&gt;2027&lt;/strong&gt;. Slides will be added as they become available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Calendar note:&lt;/strong&gt; There are no classes during the Chinese New Year break, January 25–February 14. The university calendar states that 2027 holiday and makeup class arrangements will be updated after the official holiday dates are issued. The schedule below, including May 4 and 6, is therefore tentative and subject to adjustment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quizzes:&lt;/strong&gt; Quiz 1 is planned for Week 6 (March 9/11), and Quiz 2 for Week 11 (April 13/15). The exact class date for each quiz will be announced.&lt;/p&gt;
+&lt;div class=&#34;course-table-scroll&#34; role=&#34;region&#34; aria-label=&#34;Weekly syllabus and lecture slides&#34; tabindex=&#34;0&#34;&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Week&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Dates (Tue, Thu)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Topics&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Slides&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan 12, 14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Introduction: key concepts in (algorithmic) game theory.&lt;br&gt;Price of anarchy: selfish routing.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan 19, 21&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mechanism design basics: auctions and incentives.&lt;br&gt;Welfare maximization: VCG auctions.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Jan 25–Feb 14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;span class=&#34;course-holiday&#34;&gt;Chinese New Year break — no classes.&lt;/span&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Feb 16, 18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Revenue maximization: Myerson auctions.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Feb 23, 25&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Simple versus optimal mechanisms: posted price, prophet inequality.&lt;br&gt;Prior-independent mechanisms: Bulow–Klemperer.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mar 2, 4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Case studies: sponsored search auctions, spectrum auctions.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mar 9, 11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Contract design. &lt;strong&gt;Quiz 1 (exact date to be announced).&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mar 16, 18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mechanism design without money: stable matching and fair allocation.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mar 23, 25&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Potential games and best-response dynamics.&lt;br&gt;Equilibrium hierarchy: Nash, correlated, and coarse correlated equilibria.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mar 30, Apr 1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;No-regret dynamics and coarse correlated equilibrium (CCE).&lt;br&gt;Swap-regret dynamics and correlated equilibrium (CE).&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Apr 6, 8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Minimax theorem.&lt;br&gt;Equilibrium computation: Lemke–Howson.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Apr 13, 15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Equilibrium complexity: PLS, PPAD.&lt;br&gt;&lt;strong&gt;Quiz 2 (exact date to be announced).&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Apr 20, 22&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Information elicitation: scoring rules.&lt;br&gt;Information design: Bayesian persuasion.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Apr 27, 29&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cooperative game theory: coalitional games, core.&lt;br&gt;Case study: data valuation via Shapley value.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;May 4, 6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Project presentations.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;May 11, 13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Project presentations.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning outcomes&lt;/h2&gt;
+&lt;p&gt;By the end of the course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Recognize&lt;/strong&gt; strategic behavior and incentive issues in real-world applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Propose&lt;/strong&gt; a game-theoretic model for a real-world phenomenon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt; concepts from algorithmic game theory to analyze equilibria, learning dynamics, and the inefficiency arising from players’ strategic behavior in the proposed model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt; a mechanism (such as an auction, a contract, or an information structure) to achieve certain objectives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyze&lt;/strong&gt; and &lt;strong&gt;evaluate&lt;/strong&gt; the proposed mechanism using appropriate criteria, such as welfare, revenue, incentive compatibility, and computational complexity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;assessment&#34;&gt;Assessment&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Component&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Weight&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Participation&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;10%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Homework&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;20%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Quiz 1&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Quiz 2&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Presentation&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;10%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Project presentations are planned for Weeks 14 and 15. Further assessment details will be announced in class.&lt;/p&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;Recommended references are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tim Roughgarden, &lt;em&gt;Twenty Lectures on Algorithmic Game Theory&lt;/em&gt;. Cambridge University Press, 2016.&lt;/li&gt;
+&lt;li&gt;Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani (eds.), &lt;em&gt;Algorithmic Game Theory&lt;/em&gt;. Cambridge University Press, 2007.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CSC 6011: Theory of Computation</title>
@@ -119,7 +303,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 23, 25&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Interactive proofs, IP = PSPACE.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Not yet posted&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-21.pdf&#34; title=&#34;IP, Sum-Check Protocol&#34;&gt;Lecture 21 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-21-handout.pdf&#34; title=&#34;Sum-Check Protocol&#34;&gt;Lecture 21 handout (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
