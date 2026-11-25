@@ -340,7 +340,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;11&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nov 23, 25&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Interactive proofs, IP = PSPACE.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-21.pdf&#34; title=&#34;IP, Sum-Check Protocol&#34;&gt;Lecture 21 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-21-handout.pdf&#34; title=&#34;Sum-Check Protocol&#34;&gt;Lecture 21 handout (PDF)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;lecture-21.pdf&#34; title=&#34;IP, Sum-Check Protocol&#34;&gt;Lecture 21 (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-21-handout.pdf&#34; title=&#34;Sum-Check Protocol&#34;&gt;Lecture 21 handout (PDF)&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;lecture-22.pdf&#34; title=&#34;#SAT in IP, Arithmetization&#34;&gt;Lecture 22 (PDF)&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;12&lt;/td&gt;
@@ -939,7 +939,7 @@ These results not only refine previous results in Stackelberg games and contract
 
 
 
-&lt;div id=&#34;chart-489527316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-936741528&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -957,7 +957,7 @@ These results not only refine previous results in Stackelberg games and contract
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-489527316&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-936741528&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
